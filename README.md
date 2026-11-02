@@ -56,3 +56,20 @@ indonesia-karhutla-mask-sales-analysis/
 │
 ├── requirements.txt               # Daftar dependencies library Python
 └── README.md                      # Dokumentasi project
+```
+
+---
+
+# Conclusion
+
+## 📊 Visualisasi Hasil Analisis
+
+### 1. Tren Mingguan: Hotspot Karhutla vs Penjualan Masker
+Grafik di bawah ini memperlihatkan bagaimana lonjakan titik api pada bulan Juli–Oktober secara langsung memicu kenaikan kurva penjualan masker di e-commerce:
+
+![Sales vs Hotspots](assets/sales_vs_hotspots.png)
+
+### 2. Analisis Korelasi Statistik
+Uji korelasi Pearson menunjukkan angka **r = 0.94**, yang mengindikasikan adanya hubungan linear positif yang sangat kuat antara intensitas bencana dengan tingkat permintaan pasar.
+
+![Correlation Scatter Plot](assets/correlation_scatter.png)
