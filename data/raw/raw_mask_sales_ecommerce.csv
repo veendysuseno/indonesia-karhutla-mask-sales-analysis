@@ -1,0 +1,1461 @@
+order_id,order_date,region,product_category,units_sold,revenue_idr
+ORD-1000,2023-01-01,Sumatera_Selatan,Masker Medis 3Ply,591,8865000
+ORD-1001,2023-01-01,Riau,Masker Medis 3Ply,342,3420000
+ORD-1002,2023-01-01,Kalimantan_Barat,Masker Kain,224,2240000
+ORD-1003,2023-01-01,Kalimantan_Tengah,Masker Kain,359,5385000
+ORD-1004,2023-01-02,Sumatera_Selatan,Masker N95,326,14670000
+ORD-1005,2023-01-02,Riau,Masker N95,522,5220000
+ORD-1006,2023-01-02,Kalimantan_Barat,Masker Medis 3Ply,280,4200000
+ORD-1007,2023-01-02,Kalimantan_Tengah,Masker Kain,273,4095000
+ORD-1008,2023-01-03,Sumatera_Selatan,Masker Medis 3Ply,428,19260000
+ORD-1009,2023-01-03,Riau,Masker Medis 3Ply,537,8055000
+ORD-1010,2023-01-03,Kalimantan_Barat,Masker Medis 3Ply,118,5310000
+ORD-1011,2023-01-03,Kalimantan_Tengah,Masker Medis 3Ply,432,19440000
+ORD-1012,2023-01-04,Sumatera_Selatan,Masker Medis 3Ply,92,920000
+ORD-1013,2023-01-04,Riau,Masker Medis 3Ply,518,7770000
+ORD-1014,2023-01-04,Kalimantan_Barat,Masker Medis 3Ply,522,23490000
+ORD-1015,2023-01-04,Kalimantan_Tengah,Masker N95,125,1875000
+ORD-1016,2023-01-05,Sumatera_Selatan,Masker N95,431,19395000
+ORD-1017,2023-01-05,Riau,Masker Medis 3Ply,494,7410000
+ORD-1018,2023-01-05,Kalimantan_Barat,Masker N95,320,3200000
+ORD-1019,2023-01-05,Kalimantan_Tengah,Masker Medis 3Ply,486,7290000
+ORD-1020,2023-01-06,Sumatera_Selatan,Masker Medis 3Ply,375,3750000
+ORD-1021,2023-01-06,Riau,Masker N95,500,22500000
+ORD-1022,2023-01-06,Kalimantan_Barat,Masker N95,541,24345000
+ORD-1023,2023-01-06,Kalimantan_Tengah,Masker N95,312,4680000
+ORD-1024,2023-01-07,Sumatera_Selatan,Masker Medis 3Ply,341,15345000
+ORD-1025,2023-01-07,Riau,Masker Medis 3Ply,95,1425000
+ORD-1026,2023-01-07,Kalimantan_Barat,Masker Medis 3Ply,199,2985000
+ORD-1027,2023-01-07,Kalimantan_Tengah,Masker N95,374,16830000
+ORD-1028,2023-01-08,Sumatera_Selatan,Masker Kain,274,12330000
+ORD-1029,2023-01-08,Riau,Masker Medis 3Ply,334,15030000
+ORD-1030,2023-01-08,Kalimantan_Barat,Masker Medis 3Ply,173,2595000
+ORD-1031,2023-01-08,Kalimantan_Tengah,Masker N95,538,5380000
+ORD-1032,2023-01-09,Sumatera_Selatan,Masker N95,364,16380000
+ORD-1033,2023-01-09,Riau,Masker Kain,277,12465000
+ORD-1034,2023-01-09,Kalimantan_Barat,Masker Medis 3Ply,457,4570000
+ORD-1035,2023-01-09,Kalimantan_Tengah,Masker Medis 3Ply,143,6435000
+ORD-1036,2023-01-10,Sumatera_Selatan,Masker Kain,480,4800000
+ORD-1037,2023-01-10,Riau,Masker Kain,510,22950000
+ORD-1038,2023-01-10,Kalimantan_Barat,Masker N95,173,2595000
+ORD-1039,2023-01-10,Kalimantan_Tengah,Masker Medis 3Ply,173,2595000
+ORD-1040,2023-01-11,Sumatera_Selatan,Masker Medis 3Ply,619,27855000
+ORD-1041,2023-01-11,Riau,Masker Medis 3Ply,317,3170000
+ORD-1042,2023-01-11,Kalimantan_Barat,Masker Medis 3Ply,315,3150000
+ORD-1043,2023-01-11,Kalimantan_Tengah,Masker Kain,174,7830000
+ORD-1044,2023-01-12,Sumatera_Selatan,Masker Medis 3Ply,175,1750000
+ORD-1045,2023-01-12,Riau,Masker Kain,184,1840000
+ORD-1046,2023-01-12,Kalimantan_Barat,Masker Medis 3Ply,159,7155000
+ORD-1047,2023-01-12,Kalimantan_Tengah,Masker Medis 3Ply,495,22275000
+ORD-1048,2023-01-13,Sumatera_Selatan,Masker Medis 3Ply,360,16200000
+ORD-1049,2023-01-13,Riau,Masker Medis 3Ply,569,25605000
+ORD-1050,2023-01-13,Kalimantan_Barat,Masker Medis 3Ply,556,8340000
+ORD-1051,2023-01-13,Kalimantan_Tengah,Masker Medis 3Ply,208,3120000
+ORD-1052,2023-01-14,Sumatera_Selatan,Masker N95,362,5430000
+ORD-1053,2023-01-14,Riau,Masker Kain,591,5910000
+ORD-1054,2023-01-14,Kalimantan_Barat,Masker N95,417,4170000
+ORD-1055,2023-01-14,Kalimantan_Tengah,Masker Medis 3Ply,242,3630000
+ORD-1056,2023-01-15,Sumatera_Selatan,Masker Medis 3Ply,356,16020000
+ORD-1057,2023-01-15,Riau,Masker Kain,525,5250000
+ORD-1058,2023-01-15,Kalimantan_Barat,Masker Medis 3Ply,447,20115000
+ORD-1059,2023-01-15,Kalimantan_Tengah,Masker Medis 3Ply,290,13050000
+ORD-1060,2023-01-16,Sumatera_Selatan,Masker Medis 3Ply,332,3320000
+ORD-1061,2023-01-16,Riau,Masker N95,484,21780000
+ORD-1062,2023-01-16,Kalimantan_Barat,Masker Medis 3Ply,442,4420000
+ORD-1063,2023-01-16,Kalimantan_Tengah,Masker N95,498,22410000
+ORD-1064,2023-01-17,Sumatera_Selatan,Masker Kain,557,25065000
+ORD-1065,2023-01-17,Riau,Masker N95,329,14805000
+ORD-1066,2023-01-17,Kalimantan_Barat,Masker N95,97,970000
+ORD-1067,2023-01-17,Kalimantan_Tengah,Masker Medis 3Ply,491,22095000
+ORD-1068,2023-01-18,Sumatera_Selatan,Masker Medis 3Ply,205,3075000
+ORD-1069,2023-01-18,Riau,Masker N95,196,8820000
+ORD-1070,2023-01-18,Kalimantan_Barat,Masker Medis 3Ply,444,19980000
+ORD-1071,2023-01-18,Kalimantan_Tengah,Masker Kain,141,6345000
+ORD-1072,2023-01-19,Sumatera_Selatan,Masker Medis 3Ply,218,9810000
+ORD-1073,2023-01-19,Riau,Masker Kain,476,7140000
+ORD-1074,2023-01-19,Kalimantan_Barat,Masker Medis 3Ply,257,11565000
+ORD-1075,2023-01-19,Kalimantan_Tengah,Masker N95,370,5550000
+ORD-1076,2023-01-20,Sumatera_Selatan,Masker Medis 3Ply,216,2160000
+ORD-1077,2023-01-20,Riau,Masker Medis 3Ply,620,9300000
+ORD-1078,2023-01-20,Kalimantan_Barat,Masker N95,655,29475000
+ORD-1079,2023-01-20,Kalimantan_Tengah,Masker N95,577,8655000
+ORD-1080,2023-01-21,Sumatera_Selatan,Masker Medis 3Ply,145,2175000
+ORD-1081,2023-01-21,Riau,Masker Medis 3Ply,481,7215000
+ORD-1082,2023-01-21,Kalimantan_Barat,Masker Medis 3Ply,197,8865000
+ORD-1083,2023-01-21,Kalimantan_Tengah,Masker N95,258,2580000
+ORD-1084,2023-01-22,Sumatera_Selatan,Masker N95,221,9945000
+ORD-1085,2023-01-22,Riau,Masker Medis 3Ply,327,14715000
+ORD-1086,2023-01-22,Kalimantan_Barat,Masker Kain,705,31725000
+ORD-1087,2023-01-22,Kalimantan_Tengah,Masker Medis 3Ply,522,23490000
+ORD-1088,2023-01-23,Sumatera_Selatan,Masker N95,359,16155000
+ORD-1089,2023-01-23,Riau,Masker N95,517,23265000
+ORD-1090,2023-01-23,Kalimantan_Barat,Masker N95,695,31275000
+ORD-1091,2023-01-23,Kalimantan_Tengah,Masker Medis 3Ply,501,5010000
+ORD-1092,2023-01-24,Sumatera_Selatan,Masker Medis 3Ply,483,21735000
+ORD-1093,2023-01-24,Riau,Masker Medis 3Ply,601,9015000
+ORD-1094,2023-01-24,Kalimantan_Barat,Masker Medis 3Ply,117,5265000
+ORD-1095,2023-01-24,Kalimantan_Tengah,Masker Medis 3Ply,721,7210000
+ORD-1096,2023-01-25,Sumatera_Selatan,Masker N95,342,3420000
+ORD-1097,2023-01-25,Riau,Masker N95,110,4950000
+ORD-1098,2023-01-25,Kalimantan_Barat,Masker Kain,124,1240000
+ORD-1099,2023-01-25,Kalimantan_Tengah,Masker Medis 3Ply,161,7245000
+ORD-1100,2023-01-26,Sumatera_Selatan,Masker N95,476,4760000
+ORD-1101,2023-01-26,Riau,Masker Medis 3Ply,266,3990000
+ORD-1102,2023-01-26,Kalimantan_Barat,Masker Medis 3Ply,452,4520000
+ORD-1103,2023-01-26,Kalimantan_Tengah,Masker Medis 3Ply,265,2650000
+ORD-1104,2023-01-27,Sumatera_Selatan,Masker Medis 3Ply,292,4380000
+ORD-1105,2023-01-27,Riau,Masker Medis 3Ply,286,2860000
+ORD-1106,2023-01-27,Kalimantan_Barat,Masker N95,494,4940000
+ORD-1107,2023-01-27,Kalimantan_Tengah,Masker Medis 3Ply,349,15705000
+ORD-1108,2023-01-28,Sumatera_Selatan,Masker Medis 3Ply,536,5360000
+ORD-1109,2023-01-28,Riau,Masker Kain,593,5930000
+ORD-1110,2023-01-28,Kalimantan_Barat,Masker Kain,180,2700000
+ORD-1111,2023-01-28,Kalimantan_Tengah,Masker Medis 3Ply,499,7485000
+ORD-1112,2023-01-29,Sumatera_Selatan,Masker Kain,524,7860000
+ORD-1113,2023-01-29,Riau,Masker Kain,316,4740000
+ORD-1114,2023-01-29,Kalimantan_Barat,Masker Medis 3Ply,521,7815000
+ORD-1115,2023-01-29,Kalimantan_Tengah,Masker Medis 3Ply,305,4575000
+ORD-1116,2023-01-30,Sumatera_Selatan,Masker N95,522,7830000
+ORD-1117,2023-01-30,Riau,Masker N95,245,3675000
+ORD-1118,2023-01-30,Kalimantan_Barat,Masker Medis 3Ply,340,3400000
+ORD-1119,2023-01-30,Kalimantan_Tengah,Masker N95,567,5670000
+ORD-1120,2023-01-31,Sumatera_Selatan,Masker N95,141,6345000
+ORD-1121,2023-01-31,Riau,Masker Medis 3Ply,159,2385000
+ORD-1122,2023-01-31,Kalimantan_Barat,Masker Medis 3Ply,510,22950000
+ORD-1123,2023-01-31,Kalimantan_Tengah,Masker Medis 3Ply,485,21825000
+ORD-1124,2023-02-01,Sumatera_Selatan,Masker Kain,355,15975000
+ORD-1125,2023-02-01,Riau,Masker Medis 3Ply,624,28080000
+ORD-1126,2023-02-01,Kalimantan_Barat,Masker Kain,321,14445000
+ORD-1127,2023-02-01,Kalimantan_Tengah,Masker Medis 3Ply,479,21555000
+ORD-1128,2023-02-02,Sumatera_Selatan,Masker Medis 3Ply,409,6135000
+ORD-1129,2023-02-02,Riau,Masker Medis 3Ply,476,7140000
+ORD-1130,2023-02-02,Kalimantan_Barat,Masker Kain,110,4950000
+ORD-1131,2023-02-02,Kalimantan_Tengah,Masker Kain,559,8385000
+ORD-1132,2023-02-03,Sumatera_Selatan,Masker Medis 3Ply,346,15570000
+ORD-1133,2023-02-03,Riau,Masker N95,174,1740000
+ORD-1134,2023-02-03,Kalimantan_Barat,Masker N95,181,2715000
+ORD-1135,2023-02-03,Kalimantan_Tengah,Masker Medis 3Ply,232,10440000
+ORD-1136,2023-02-04,Sumatera_Selatan,Masker Kain,430,4300000
+ORD-1137,2023-02-04,Riau,Masker Kain,248,3720000
+ORD-1138,2023-02-04,Kalimantan_Barat,Masker N95,607,27315000
+ORD-1139,2023-02-04,Kalimantan_Tengah,Masker N95,499,4990000
+ORD-1140,2023-02-05,Sumatera_Selatan,Masker Medis 3Ply,331,14895000
+ORD-1141,2023-02-05,Riau,Masker Medis 3Ply,524,7860000
+ORD-1142,2023-02-05,Kalimantan_Barat,Masker Kain,630,28350000
+ORD-1143,2023-02-05,Kalimantan_Tengah,Masker N95,405,18225000
+ORD-1144,2023-02-06,Sumatera_Selatan,Masker N95,277,12465000
+ORD-1145,2023-02-06,Riau,Masker Kain,103,1545000
+ORD-1146,2023-02-06,Kalimantan_Barat,Masker N95,168,1680000
+ORD-1147,2023-02-06,Kalimantan_Tengah,Masker Medis 3Ply,416,4160000
+ORD-1148,2023-02-07,Sumatera_Selatan,Masker N95,113,5085000
+ORD-1149,2023-02-07,Riau,Masker Medis 3Ply,72,1080000
+ORD-1150,2023-02-07,Kalimantan_Barat,Masker Medis 3Ply,432,6480000
+ORD-1151,2023-02-07,Kalimantan_Tengah,Masker Medis 3Ply,449,20205000
+ORD-1152,2023-02-08,Sumatera_Selatan,Masker N95,619,27855000
+ORD-1153,2023-02-08,Riau,Masker N95,587,5870000
+ORD-1154,2023-02-08,Kalimantan_Barat,Masker Medis 3Ply,119,5355000
+ORD-1155,2023-02-08,Kalimantan_Tengah,Masker N95,450,20250000
+ORD-1156,2023-02-09,Sumatera_Selatan,Masker Medis 3Ply,138,6210000
+ORD-1157,2023-02-09,Riau,Masker Medis 3Ply,513,23085000
+ORD-1158,2023-02-09,Kalimantan_Barat,Masker Medis 3Ply,584,8760000
+ORD-1159,2023-02-09,Kalimantan_Tengah,Masker N95,219,2190000
+ORD-1160,2023-02-10,Sumatera_Selatan,Masker Medis 3Ply,548,8220000
+ORD-1161,2023-02-10,Riau,Masker Medis 3Ply,163,2445000
+ORD-1162,2023-02-10,Kalimantan_Barat,Masker N95,314,14130000
+ORD-1163,2023-02-10,Kalimantan_Tengah,Masker N95,312,4680000
+ORD-1164,2023-02-11,Sumatera_Selatan,Masker Medis 3Ply,486,7290000
+ORD-1165,2023-02-11,Riau,Masker Kain,139,6255000
+ORD-1166,2023-02-11,Kalimantan_Barat,Masker Medis 3Ply,643,9645000
+ORD-1167,2023-02-11,Kalimantan_Tengah,Masker N95,189,2835000
+ORD-1168,2023-02-12,Sumatera_Selatan,Masker Medis 3Ply,477,21465000
+ORD-1169,2023-02-12,Riau,Masker Medis 3Ply,260,2600000
+ORD-1170,2023-02-12,Kalimantan_Barat,Masker Kain,292,13140000
+ORD-1171,2023-02-12,Kalimantan_Tengah,Masker Medis 3Ply,458,4580000
+ORD-1172,2023-02-13,Sumatera_Selatan,Masker Medis 3Ply,146,1460000
+ORD-1173,2023-02-13,Riau,Masker N95,213,2130000
+ORD-1174,2023-02-13,Kalimantan_Barat,Masker Medis 3Ply,407,18315000
+ORD-1175,2023-02-13,Kalimantan_Tengah,Masker Kain,581,26145000
+ORD-1176,2023-02-14,Sumatera_Selatan,Masker Medis 3Ply,120,1200000
+ORD-1177,2023-02-14,Riau,Masker N95,477,7155000
+ORD-1178,2023-02-14,Kalimantan_Barat,Masker N95,331,4965000
+ORD-1179,2023-02-14,Kalimantan_Tengah,Masker Medis 3Ply,493,22185000
+ORD-1180,2023-02-15,Sumatera_Selatan,Masker N95,192,8640000
+ORD-1181,2023-02-15,Riau,Masker Medis 3Ply,351,5265000
+ORD-1182,2023-02-15,Kalimantan_Barat,Masker Medis 3Ply,408,18360000
+ORD-1183,2023-02-15,Kalimantan_Tengah,Masker Medis 3Ply,551,8265000
+ORD-1184,2023-02-16,Sumatera_Selatan,Masker Medis 3Ply,247,2470000
+ORD-1185,2023-02-16,Riau,Masker Medis 3Ply,571,5710000
+ORD-1186,2023-02-16,Kalimantan_Barat,Masker N95,399,17955000
+ORD-1187,2023-02-16,Kalimantan_Tengah,Masker Medis 3Ply,109,1635000
+ORD-1188,2023-02-17,Sumatera_Selatan,Masker Kain,264,11880000
+ORD-1189,2023-02-17,Riau,Masker N95,544,24480000
+ORD-1190,2023-02-17,Kalimantan_Barat,Masker N95,443,4430000
+ORD-1191,2023-02-17,Kalimantan_Tengah,Masker N95,395,5925000
+ORD-1192,2023-02-18,Sumatera_Selatan,Masker Medis 3Ply,547,24615000
+ORD-1193,2023-02-18,Riau,Masker Medis 3Ply,458,6870000
+ORD-1194,2023-02-18,Kalimantan_Barat,Masker Medis 3Ply,681,30645000
+ORD-1195,2023-02-18,Kalimantan_Tengah,Masker Medis 3Ply,227,10215000
+ORD-1196,2023-02-19,Sumatera_Selatan,Masker Kain,396,17820000
+ORD-1197,2023-02-19,Riau,Masker N95,432,6480000
+ORD-1198,2023-02-19,Kalimantan_Barat,Masker Kain,172,2580000
+ORD-1199,2023-02-19,Kalimantan_Tengah,Masker N95,96,4320000
+ORD-1200,2023-02-20,Sumatera_Selatan,Masker Medis 3Ply,318,4770000
+ORD-1201,2023-02-20,Riau,Masker Kain,161,2415000
+ORD-1202,2023-02-20,Kalimantan_Barat,Masker Medis 3Ply,638,9570000
+ORD-1203,2023-02-20,Kalimantan_Tengah,Masker Medis 3Ply,232,10440000
+ORD-1204,2023-02-21,Sumatera_Selatan,Masker Kain,687,30915000
+ORD-1205,2023-02-21,Riau,Masker N95,339,5085000
+ORD-1206,2023-02-21,Kalimantan_Barat,Masker Medis 3Ply,337,15165000
+ORD-1207,2023-02-21,Kalimantan_Tengah,Masker Kain,193,8685000
+ORD-1208,2023-02-22,Sumatera_Selatan,Masker Medis 3Ply,393,5895000
+ORD-1209,2023-02-22,Riau,Masker Kain,470,4700000
+ORD-1210,2023-02-22,Kalimantan_Barat,Masker N95,613,27585000
+ORD-1211,2023-02-22,Kalimantan_Tengah,Masker Kain,535,24075000
+ORD-1212,2023-02-23,Sumatera_Selatan,Masker N95,271,12195000
+ORD-1213,2023-02-23,Riau,Masker Medis 3Ply,226,2260000
+ORD-1214,2023-02-23,Kalimantan_Barat,Masker Kain,355,3550000
+ORD-1215,2023-02-23,Kalimantan_Tengah,Masker Medis 3Ply,559,25155000
+ORD-1216,2023-02-24,Sumatera_Selatan,Masker Medis 3Ply,451,6765000
+ORD-1217,2023-02-24,Riau,Masker N95,590,8850000
+ORD-1218,2023-02-24,Kalimantan_Barat,Masker Medis 3Ply,537,8055000
+ORD-1219,2023-02-24,Kalimantan_Tengah,Masker Medis 3Ply,636,6360000
+ORD-1220,2023-02-25,Sumatera_Selatan,Masker Kain,284,12780000
+ORD-1221,2023-02-25,Riau,Masker Kain,294,13230000
+ORD-1222,2023-02-25,Kalimantan_Barat,Masker Medis 3Ply,133,5985000
+ORD-1223,2023-02-25,Kalimantan_Tengah,Masker Kain,576,5760000
+ORD-1224,2023-02-26,Sumatera_Selatan,Masker Kain,403,6045000
+ORD-1225,2023-02-26,Riau,Masker N95,715,7150000
+ORD-1226,2023-02-26,Kalimantan_Barat,Masker Medis 3Ply,233,10485000
+ORD-1227,2023-02-26,Kalimantan_Tengah,Masker Medis 3Ply,543,8145000
+ORD-1228,2023-02-27,Sumatera_Selatan,Masker Medis 3Ply,294,2940000
+ORD-1229,2023-02-27,Riau,Masker Medis 3Ply,359,16155000
+ORD-1230,2023-02-27,Kalimantan_Barat,Masker N95,445,6675000
+ORD-1231,2023-02-27,Kalimantan_Tengah,Masker N95,272,4080000
+ORD-1232,2023-02-28,Sumatera_Selatan,Masker Medis 3Ply,205,9225000
+ORD-1233,2023-02-28,Riau,Masker N95,103,1545000
+ORD-1234,2023-02-28,Kalimantan_Barat,Masker N95,334,5010000
+ORD-1235,2023-02-28,Kalimantan_Tengah,Masker N95,633,9495000
+ORD-1236,2023-03-01,Sumatera_Selatan,Masker Kain,240,10800000
+ORD-1237,2023-03-01,Riau,Masker N95,476,21420000
+ORD-1238,2023-03-01,Kalimantan_Barat,Masker N95,435,4350000
+ORD-1239,2023-03-01,Kalimantan_Tengah,Masker Medis 3Ply,549,24705000
+ORD-1240,2023-03-02,Sumatera_Selatan,Masker Kain,230,2300000
+ORD-1241,2023-03-02,Riau,Masker Kain,442,19890000
+ORD-1242,2023-03-02,Kalimantan_Barat,Masker Medis 3Ply,470,21150000
+ORD-1243,2023-03-02,Kalimantan_Tengah,Masker Medis 3Ply,707,10605000
+ORD-1244,2023-03-03,Sumatera_Selatan,Masker Medis 3Ply,359,5385000
+ORD-1245,2023-03-03,Riau,Masker Medis 3Ply,514,23130000
+ORD-1246,2023-03-03,Kalimantan_Barat,Masker Medis 3Ply,522,5220000
+ORD-1247,2023-03-03,Kalimantan_Tengah,Masker N95,582,26190000
+ORD-1248,2023-03-04,Sumatera_Selatan,Masker Kain,562,8430000
+ORD-1249,2023-03-04,Riau,Masker N95,201,3015000
+ORD-1250,2023-03-04,Kalimantan_Barat,Masker Medis 3Ply,330,3300000
+ORD-1251,2023-03-04,Kalimantan_Tengah,Masker Medis 3Ply,164,1640000
+ORD-1252,2023-03-05,Sumatera_Selatan,Masker N95,619,9285000
+ORD-1253,2023-03-05,Riau,Masker Kain,406,18270000
+ORD-1254,2023-03-05,Kalimantan_Barat,Masker Medis 3Ply,585,26325000
+ORD-1255,2023-03-05,Kalimantan_Tengah,Masker N95,528,7920000
+ORD-1256,2023-03-06,Sumatera_Selatan,Masker Medis 3Ply,506,7590000
+ORD-1257,2023-03-06,Riau,Masker Medis 3Ply,172,1720000
+ORD-1258,2023-03-06,Kalimantan_Barat,Masker N95,734,7340000
+ORD-1259,2023-03-06,Kalimantan_Tengah,Masker Medis 3Ply,445,20025000
+ORD-1260,2023-03-07,Sumatera_Selatan,Masker N95,492,7380000
+ORD-1261,2023-03-07,Riau,Masker N95,459,20655000
+ORD-1262,2023-03-07,Kalimantan_Barat,Masker Medis 3Ply,479,7185000
+ORD-1263,2023-03-07,Kalimantan_Tengah,Masker Kain,561,25245000
+ORD-1264,2023-03-08,Sumatera_Selatan,Masker N95,465,6975000
+ORD-1265,2023-03-08,Riau,Masker Medis 3Ply,594,5940000
+ORD-1266,2023-03-08,Kalimantan_Barat,Masker N95,427,19215000
+ORD-1267,2023-03-08,Kalimantan_Tengah,Masker Medis 3Ply,581,5810000
+ORD-1268,2023-03-09,Sumatera_Selatan,Masker N95,150,6750000
+ORD-1269,2023-03-09,Riau,Masker Medis 3Ply,330,4950000
+ORD-1270,2023-03-09,Kalimantan_Barat,Masker Medis 3Ply,507,22815000
+ORD-1271,2023-03-09,Kalimantan_Tengah,Masker Medis 3Ply,581,5810000
+ORD-1272,2023-03-10,Sumatera_Selatan,Masker Kain,127,5715000
+ORD-1273,2023-03-10,Riau,Masker N95,518,23310000
+ORD-1274,2023-03-10,Kalimantan_Barat,Masker Medis 3Ply,552,5520000
+ORD-1275,2023-03-10,Kalimantan_Tengah,Masker Medis 3Ply,451,20295000
+ORD-1276,2023-03-11,Sumatera_Selatan,Masker Medis 3Ply,386,17370000
+ORD-1277,2023-03-11,Riau,Masker Medis 3Ply,122,1830000
+ORD-1278,2023-03-11,Kalimantan_Barat,Masker Kain,474,21330000
+ORD-1279,2023-03-11,Kalimantan_Tengah,Masker Kain,143,2145000
+ORD-1280,2023-03-12,Sumatera_Selatan,Masker N95,510,7650000
+ORD-1281,2023-03-12,Riau,Masker Kain,397,3970000
+ORD-1282,2023-03-12,Kalimantan_Barat,Masker Medis 3Ply,588,8820000
+ORD-1283,2023-03-12,Kalimantan_Tengah,Masker Medis 3Ply,257,2570000
+ORD-1284,2023-03-13,Sumatera_Selatan,Masker Medis 3Ply,578,5780000
+ORD-1285,2023-03-13,Riau,Masker Kain,387,3870000
+ORD-1286,2023-03-13,Kalimantan_Barat,Masker Medis 3Ply,660,29700000
+ORD-1287,2023-03-13,Kalimantan_Tengah,Masker N95,506,7590000
+ORD-1288,2023-03-14,Sumatera_Selatan,Masker Kain,415,6225000
+ORD-1289,2023-03-14,Riau,Masker Medis 3Ply,314,3140000
+ORD-1290,2023-03-14,Kalimantan_Barat,Masker Medis 3Ply,232,3480000
+ORD-1291,2023-03-14,Kalimantan_Tengah,Masker Medis 3Ply,413,18585000
+ORD-1292,2023-03-15,Sumatera_Selatan,Masker Kain,116,5220000
+ORD-1293,2023-03-15,Riau,Masker Medis 3Ply,193,8685000
+ORD-1294,2023-03-15,Kalimantan_Barat,Masker N95,292,4380000
+ORD-1295,2023-03-15,Kalimantan_Tengah,Masker N95,362,5430000
+ORD-1296,2023-03-16,Sumatera_Selatan,Masker N95,352,3520000
+ORD-1297,2023-03-16,Riau,Masker Medis 3Ply,500,7500000
+ORD-1298,2023-03-16,Kalimantan_Barat,Masker Medis 3Ply,262,2620000
+ORD-1299,2023-03-16,Kalimantan_Tengah,Masker N95,492,22140000
+ORD-1300,2023-03-17,Sumatera_Selatan,Masker Kain,586,26370000
+ORD-1301,2023-03-17,Riau,Masker N95,160,7200000
+ORD-1302,2023-03-17,Kalimantan_Barat,Masker Medis 3Ply,642,6420000
+ORD-1303,2023-03-17,Kalimantan_Tengah,Masker Kain,426,4260000
+ORD-1304,2023-03-18,Sumatera_Selatan,Masker N95,493,4930000
+ORD-1305,2023-03-18,Riau,Masker N95,417,6255000
+ORD-1306,2023-03-18,Kalimantan_Barat,Masker N95,480,4800000
+ORD-1307,2023-03-18,Kalimantan_Tengah,Masker Medis 3Ply,387,17415000
+ORD-1308,2023-03-19,Sumatera_Selatan,Masker N95,202,3030000
+ORD-1309,2023-03-19,Riau,Masker Medis 3Ply,311,4665000
+ORD-1310,2023-03-19,Kalimantan_Barat,Masker Medis 3Ply,535,24075000
+ORD-1311,2023-03-19,Kalimantan_Tengah,Masker N95,261,11745000
+ORD-1312,2023-03-20,Sumatera_Selatan,Masker Medis 3Ply,121,1210000
+ORD-1313,2023-03-20,Riau,Masker Medis 3Ply,140,6300000
+ORD-1314,2023-03-20,Kalimantan_Barat,Masker Kain,189,2835000
+ORD-1315,2023-03-20,Kalimantan_Tengah,Masker Kain,600,9000000
+ORD-1316,2023-03-21,Sumatera_Selatan,Masker Medis 3Ply,549,5490000
+ORD-1317,2023-03-21,Riau,Masker Medis 3Ply,616,27720000
+ORD-1318,2023-03-21,Kalimantan_Barat,Masker N95,435,19575000
+ORD-1319,2023-03-21,Kalimantan_Tengah,Masker Kain,339,3390000
+ORD-1320,2023-03-22,Sumatera_Selatan,Masker N95,529,23805000
+ORD-1321,2023-03-22,Riau,Masker Medis 3Ply,381,17145000
+ORD-1322,2023-03-22,Kalimantan_Barat,Masker N95,309,3090000
+ORD-1323,2023-03-22,Kalimantan_Tengah,Masker Medis 3Ply,351,5265000
+ORD-1324,2023-03-23,Sumatera_Selatan,Masker Medis 3Ply,480,21600000
+ORD-1325,2023-03-23,Riau,Masker Medis 3Ply,459,6885000
+ORD-1326,2023-03-23,Kalimantan_Barat,Masker Kain,437,19665000
+ORD-1327,2023-03-23,Kalimantan_Tengah,Masker Medis 3Ply,470,7050000
+ORD-1328,2023-03-24,Sumatera_Selatan,Masker Medis 3Ply,239,2390000
+ORD-1329,2023-03-24,Riau,Masker Medis 3Ply,298,2980000
+ORD-1330,2023-03-24,Kalimantan_Barat,Masker Medis 3Ply,94,940000
+ORD-1331,2023-03-24,Kalimantan_Tengah,Masker Kain,132,1320000
+ORD-1332,2023-03-25,Sumatera_Selatan,Masker Medis 3Ply,672,6720000
+ORD-1333,2023-03-25,Riau,Masker Kain,641,9615000
+ORD-1334,2023-03-25,Kalimantan_Barat,Masker Medis 3Ply,459,4590000
+ORD-1335,2023-03-25,Kalimantan_Tengah,Masker N95,138,1380000
+ORD-1336,2023-03-26,Sumatera_Selatan,Masker Kain,370,5550000
+ORD-1337,2023-03-26,Riau,Masker Medis 3Ply,174,7830000
+ORD-1338,2023-03-26,Kalimantan_Barat,Masker Medis 3Ply,428,4280000
+ORD-1339,2023-03-26,Kalimantan_Tengah,Masker N95,525,23625000
+ORD-1340,2023-03-27,Sumatera_Selatan,Masker Medis 3Ply,198,2970000
+ORD-1341,2023-03-27,Riau,Masker Medis 3Ply,248,3720000
+ORD-1342,2023-03-27,Kalimantan_Barat,Masker Medis 3Ply,550,24750000
+ORD-1343,2023-03-27,Kalimantan_Tengah,Masker Medis 3Ply,345,15525000
+ORD-1344,2023-03-28,Sumatera_Selatan,Masker Medis 3Ply,367,3670000
+ORD-1345,2023-03-28,Riau,Masker Kain,481,7215000
+ORD-1346,2023-03-28,Kalimantan_Barat,Masker N95,312,3120000
+ORD-1347,2023-03-28,Kalimantan_Tengah,Masker N95,585,26325000
+ORD-1348,2023-03-29,Sumatera_Selatan,Masker Medis 3Ply,165,2475000
+ORD-1349,2023-03-29,Riau,Masker Medis 3Ply,492,7380000
+ORD-1350,2023-03-29,Kalimantan_Barat,Masker N95,150,1500000
+ORD-1351,2023-03-29,Kalimantan_Tengah,Masker N95,317,3170000
+ORD-1352,2023-03-30,Sumatera_Selatan,Masker N95,398,5970000
+ORD-1353,2023-03-30,Riau,Masker Medis 3Ply,485,4850000
+ORD-1354,2023-03-30,Kalimantan_Barat,Masker Medis 3Ply,531,5310000
+ORD-1355,2023-03-30,Kalimantan_Tengah,Masker N95,459,6885000
+ORD-1356,2023-03-31,Sumatera_Selatan,Masker N95,613,27585000
+ORD-1357,2023-03-31,Riau,Masker Medis 3Ply,544,5440000
+ORD-1358,2023-03-31,Kalimantan_Barat,Masker N95,441,4410000
+ORD-1359,2023-03-31,Kalimantan_Tengah,Masker N95,297,2970000
+ORD-1360,2023-04-01,Sumatera_Selatan,Masker Kain,205,9225000
+ORD-1361,2023-04-01,Riau,Masker Medis 3Ply,589,5890000
+ORD-1362,2023-04-01,Kalimantan_Barat,Masker Kain,524,7860000
+ORD-1363,2023-04-01,Kalimantan_Tengah,Masker Medis 3Ply,285,12825000
+ORD-1364,2023-04-02,Sumatera_Selatan,Masker Kain,347,15615000
+ORD-1365,2023-04-02,Riau,Masker Medis 3Ply,543,24435000
+ORD-1366,2023-04-02,Kalimantan_Barat,Masker Medis 3Ply,80,800000
+ORD-1367,2023-04-02,Kalimantan_Tengah,Masker Medis 3Ply,177,2655000
+ORD-1368,2023-04-03,Sumatera_Selatan,Masker Medis 3Ply,170,7650000
+ORD-1369,2023-04-03,Riau,Masker N95,320,3200000
+ORD-1370,2023-04-03,Kalimantan_Barat,Masker Medis 3Ply,483,4830000
+ORD-1371,2023-04-03,Kalimantan_Tengah,Masker Medis 3Ply,329,14805000
+ORD-1372,2023-04-04,Sumatera_Selatan,Masker Kain,154,6930000
+ORD-1373,2023-04-04,Riau,Masker Medis 3Ply,539,24255000
+ORD-1374,2023-04-04,Kalimantan_Barat,Masker N95,703,7030000
+ORD-1375,2023-04-04,Kalimantan_Tengah,Masker Medis 3Ply,458,6870000
+ORD-1376,2023-04-05,Sumatera_Selatan,Masker Medis 3Ply,411,6165000
+ORD-1377,2023-04-05,Riau,Masker N95,521,23445000
+ORD-1378,2023-04-05,Kalimantan_Barat,Masker Kain,306,13770000
+ORD-1379,2023-04-05,Kalimantan_Tengah,Masker Medis 3Ply,575,5750000
+ORD-1380,2023-04-06,Sumatera_Selatan,Masker N95,675,6750000
+ORD-1381,2023-04-06,Riau,Masker Medis 3Ply,593,8895000
+ORD-1382,2023-04-06,Kalimantan_Barat,Masker Medis 3Ply,251,3765000
+ORD-1383,2023-04-06,Kalimantan_Tengah,Masker Medis 3Ply,133,1995000
+ORD-1384,2023-04-07,Sumatera_Selatan,Masker Medis 3Ply,83,1245000
+ORD-1385,2023-04-07,Riau,Masker Medis 3Ply,713,7130000
+ORD-1386,2023-04-07,Kalimantan_Barat,Masker Medis 3Ply,246,3690000
+ORD-1387,2023-04-07,Kalimantan_Tengah,Masker N95,522,5220000
+ORD-1388,2023-04-08,Sumatera_Selatan,Masker Medis 3Ply,322,3220000
+ORD-1389,2023-04-08,Riau,Masker Kain,296,4440000
+ORD-1390,2023-04-08,Kalimantan_Barat,Masker Medis 3Ply,551,8265000
+ORD-1391,2023-04-08,Kalimantan_Tengah,Masker Medis 3Ply,180,1800000
+ORD-1392,2023-04-09,Sumatera_Selatan,Masker Medis 3Ply,651,29295000
+ORD-1393,2023-04-09,Riau,Masker N95,498,4980000
+ORD-1394,2023-04-09,Kalimantan_Barat,Masker Medis 3Ply,348,3480000
+ORD-1395,2023-04-09,Kalimantan_Tengah,Masker Medis 3Ply,519,7785000
+ORD-1396,2023-04-10,Sumatera_Selatan,Masker Medis 3Ply,200,9000000
+ORD-1397,2023-04-10,Riau,Masker N95,542,24390000
+ORD-1398,2023-04-10,Kalimantan_Barat,Masker Medis 3Ply,448,6720000
+ORD-1399,2023-04-10,Kalimantan_Tengah,Masker Medis 3Ply,263,2630000
+ORD-1400,2023-04-11,Sumatera_Selatan,Masker N95,409,4090000
+ORD-1401,2023-04-11,Riau,Masker N95,569,25605000
+ORD-1402,2023-04-11,Kalimantan_Barat,Masker Kain,238,10710000
+ORD-1403,2023-04-11,Kalimantan_Tengah,Masker Medis 3Ply,128,1280000
+ORD-1404,2023-04-12,Sumatera_Selatan,Masker N95,332,3320000
+ORD-1405,2023-04-12,Riau,Masker N95,474,4740000
+ORD-1406,2023-04-12,Kalimantan_Barat,Masker N95,394,17730000
+ORD-1407,2023-04-12,Kalimantan_Tengah,Masker N95,395,3950000
+ORD-1408,2023-04-13,Sumatera_Selatan,Masker N95,255,3825000
+ORD-1409,2023-04-13,Riau,Masker Kain,231,2310000
+ORD-1410,2023-04-13,Kalimantan_Barat,Masker Medis 3Ply,542,8130000
+ORD-1411,2023-04-13,Kalimantan_Tengah,Masker Medis 3Ply,582,8730000
+ORD-1412,2023-04-14,Sumatera_Selatan,Masker Medis 3Ply,728,10920000
+ORD-1413,2023-04-14,Riau,Masker N95,327,4905000
+ORD-1414,2023-04-14,Kalimantan_Barat,Masker N95,683,6830000
+ORD-1415,2023-04-14,Kalimantan_Tengah,Masker Medis 3Ply,499,22455000
+ORD-1416,2023-04-15,Sumatera_Selatan,Masker Medis 3Ply,426,4260000
+ORD-1417,2023-04-15,Riau,Masker Medis 3Ply,662,29790000
+ORD-1418,2023-04-15,Kalimantan_Barat,Masker Medis 3Ply,296,2960000
+ORD-1419,2023-04-15,Kalimantan_Tengah,Masker N95,313,4695000
+ORD-1420,2023-04-16,Sumatera_Selatan,Masker N95,511,22995000
+ORD-1421,2023-04-16,Riau,Masker Kain,405,18225000
+ORD-1422,2023-04-16,Kalimantan_Barat,Masker Kain,610,6100000
+ORD-1423,2023-04-16,Kalimantan_Tengah,Masker Medis 3Ply,513,23085000
+ORD-1424,2023-04-17,Sumatera_Selatan,Masker N95,357,3570000
+ORD-1425,2023-04-17,Riau,Masker Kain,468,4680000
+ORD-1426,2023-04-17,Kalimantan_Barat,Masker N95,398,17910000
+ORD-1427,2023-04-17,Kalimantan_Tengah,Masker Medis 3Ply,425,6375000
+ORD-1428,2023-04-18,Sumatera_Selatan,Masker N95,361,3610000
+ORD-1429,2023-04-18,Riau,Masker Medis 3Ply,368,5520000
+ORD-1430,2023-04-18,Kalimantan_Barat,Masker Medis 3Ply,284,4260000
+ORD-1431,2023-04-18,Kalimantan_Tengah,Masker N95,400,4000000
+ORD-1432,2023-04-19,Sumatera_Selatan,Masker N95,279,4185000
+ORD-1433,2023-04-19,Riau,Masker Kain,251,3765000
+ORD-1434,2023-04-19,Kalimantan_Barat,Masker Medis 3Ply,228,10260000
+ORD-1435,2023-04-19,Kalimantan_Tengah,Masker Kain,509,7635000
+ORD-1436,2023-04-20,Sumatera_Selatan,Masker Medis 3Ply,314,3140000
+ORD-1437,2023-04-20,Riau,Masker Medis 3Ply,578,8670000
+ORD-1438,2023-04-20,Kalimantan_Barat,Masker N95,439,19755000
+ORD-1439,2023-04-20,Kalimantan_Tengah,Masker Medis 3Ply,417,6255000
+ORD-1440,2023-04-21,Sumatera_Selatan,Masker N95,186,1860000
+ORD-1441,2023-04-21,Riau,Masker N95,633,28485000
+ORD-1442,2023-04-21,Kalimantan_Barat,Masker N95,267,4005000
+ORD-1443,2023-04-21,Kalimantan_Tengah,Masker N95,553,8295000
+ORD-1444,2023-04-22,Sumatera_Selatan,Masker Medis 3Ply,487,4870000
+ORD-1445,2023-04-22,Riau,Masker Medis 3Ply,471,21195000
+ORD-1446,2023-04-22,Kalimantan_Barat,Masker N95,341,5115000
+ORD-1447,2023-04-22,Kalimantan_Tengah,Masker Medis 3Ply,317,3170000
+ORD-1448,2023-04-23,Sumatera_Selatan,Masker Medis 3Ply,686,30870000
+ORD-1449,2023-04-23,Riau,Masker Medis 3Ply,181,8145000
+ORD-1450,2023-04-23,Kalimantan_Barat,Masker Medis 3Ply,701,10515000
+ORD-1451,2023-04-23,Kalimantan_Tengah,Masker Medis 3Ply,431,6465000
+ORD-1452,2023-04-24,Sumatera_Selatan,Masker N95,550,24750000
+ORD-1453,2023-04-24,Riau,Masker Medis 3Ply,237,3555000
+ORD-1454,2023-04-24,Kalimantan_Barat,Masker Medis 3Ply,405,4050000
+ORD-1455,2023-04-24,Kalimantan_Tengah,Masker Medis 3Ply,261,3915000
+ORD-1456,2023-04-25,Sumatera_Selatan,Masker N95,250,11250000
+ORD-1457,2023-04-25,Riau,Masker Kain,238,10710000
+ORD-1458,2023-04-25,Kalimantan_Barat,Masker N95,293,2930000
+ORD-1459,2023-04-25,Kalimantan_Tengah,Masker N95,212,2120000
+ORD-1460,2023-04-26,Sumatera_Selatan,Masker Kain,295,13275000
+ORD-1461,2023-04-26,Riau,Masker Medis 3Ply,235,3525000
+ORD-1462,2023-04-26,Kalimantan_Barat,Masker Medis 3Ply,604,9060000
+ORD-1463,2023-04-26,Kalimantan_Tengah,Masker N95,156,7020000
+ORD-1464,2023-04-27,Sumatera_Selatan,Masker Kain,238,10710000
+ORD-1465,2023-04-27,Riau,Masker Medis 3Ply,571,5710000
+ORD-1466,2023-04-27,Kalimantan_Barat,Masker Medis 3Ply,412,4120000
+ORD-1467,2023-04-27,Kalimantan_Tengah,Masker Kain,185,1850000
+ORD-1468,2023-04-28,Sumatera_Selatan,Masker Medis 3Ply,142,2130000
+ORD-1469,2023-04-28,Riau,Masker Medis 3Ply,376,5640000
+ORD-1470,2023-04-28,Kalimantan_Barat,Masker Medis 3Ply,407,6105000
+ORD-1471,2023-04-28,Kalimantan_Tengah,Masker Kain,208,2080000
+ORD-1472,2023-04-29,Sumatera_Selatan,Masker Medis 3Ply,417,6255000
+ORD-1473,2023-04-29,Riau,Masker Medis 3Ply,186,1860000
+ORD-1474,2023-04-29,Kalimantan_Barat,Masker N95,174,1740000
+ORD-1475,2023-04-29,Kalimantan_Tengah,Masker Medis 3Ply,480,7200000
+ORD-1476,2023-04-30,Sumatera_Selatan,Masker Medis 3Ply,383,17235000
+ORD-1477,2023-04-30,Riau,Masker Kain,645,6450000
+ORD-1478,2023-04-30,Kalimantan_Barat,Masker Medis 3Ply,246,2460000
+ORD-1479,2023-04-30,Kalimantan_Tengah,Masker Medis 3Ply,519,23355000
+ORD-1480,2023-05-01,Sumatera_Selatan,Masker N95,294,4410000
+ORD-1481,2023-05-01,Riau,Masker N95,140,6300000
+ORD-1482,2023-05-01,Kalimantan_Barat,Masker Medis 3Ply,223,10035000
+ORD-1483,2023-05-01,Kalimantan_Tengah,Masker Medis 3Ply,603,6030000
+ORD-1484,2023-05-02,Sumatera_Selatan,Masker N95,363,16335000
+ORD-1485,2023-05-02,Riau,Masker Medis 3Ply,425,4250000
+ORD-1486,2023-05-02,Kalimantan_Barat,Masker Medis 3Ply,244,10980000
+ORD-1487,2023-05-02,Kalimantan_Tengah,Masker N95,182,1820000
+ORD-1488,2023-05-03,Sumatera_Selatan,Masker N95,134,2010000
+ORD-1489,2023-05-03,Riau,Masker N95,277,4155000
+ORD-1490,2023-05-03,Kalimantan_Barat,Masker Medis 3Ply,579,26055000
+ORD-1491,2023-05-03,Kalimantan_Tengah,Masker Medis 3Ply,481,21645000
+ORD-1492,2023-05-04,Sumatera_Selatan,Masker Medis 3Ply,677,10155000
+ORD-1493,2023-05-04,Riau,Masker Kain,154,1540000
+ORD-1494,2023-05-04,Kalimantan_Barat,Masker N95,641,9615000
+ORD-1495,2023-05-04,Kalimantan_Tengah,Masker N95,476,7140000
+ORD-1496,2023-05-05,Sumatera_Selatan,Masker Medis 3Ply,333,14985000
+ORD-1497,2023-05-05,Riau,Masker Medis 3Ply,465,4650000
+ORD-1498,2023-05-05,Kalimantan_Barat,Masker Medis 3Ply,276,12420000
+ORD-1499,2023-05-05,Kalimantan_Tengah,Masker Kain,531,5310000
+ORD-1500,2023-05-06,Sumatera_Selatan,Masker N95,326,3260000
+ORD-1501,2023-05-06,Riau,Masker N95,352,5280000
+ORD-1502,2023-05-06,Kalimantan_Barat,Masker Medis 3Ply,378,5670000
+ORD-1503,2023-05-06,Kalimantan_Tengah,Masker Medis 3Ply,319,3190000
+ORD-1504,2023-05-07,Sumatera_Selatan,Masker N95,315,3150000
+ORD-1505,2023-05-07,Riau,Masker Medis 3Ply,591,5910000
+ORD-1506,2023-05-07,Kalimantan_Barat,Masker Medis 3Ply,113,5085000
+ORD-1507,2023-05-07,Kalimantan_Tengah,Masker N95,216,3240000
+ORD-1508,2023-05-08,Sumatera_Selatan,Masker N95,395,17775000
+ORD-1509,2023-05-08,Riau,Masker N95,423,6345000
+ORD-1510,2023-05-08,Kalimantan_Barat,Masker Medis 3Ply,260,3900000
+ORD-1511,2023-05-08,Kalimantan_Tengah,Masker Medis 3Ply,247,11115000
+ORD-1512,2023-05-09,Sumatera_Selatan,Masker N95,293,13185000
+ORD-1513,2023-05-09,Riau,Masker N95,642,28890000
+ORD-1514,2023-05-09,Kalimantan_Barat,Masker Medis 3Ply,376,3760000
+ORD-1515,2023-05-09,Kalimantan_Tengah,Masker N95,192,8640000
+ORD-1516,2023-05-10,Sumatera_Selatan,Masker Medis 3Ply,280,4200000
+ORD-1517,2023-05-10,Riau,Masker Medis 3Ply,503,5030000
+ORD-1518,2023-05-10,Kalimantan_Barat,Masker Medis 3Ply,610,27450000
+ORD-1519,2023-05-10,Kalimantan_Tengah,Masker N95,244,2440000
+ORD-1520,2023-05-11,Sumatera_Selatan,Masker Medis 3Ply,511,22995000
+ORD-1521,2023-05-11,Riau,Masker N95,434,4340000
+ORD-1522,2023-05-11,Kalimantan_Barat,Masker N95,246,2460000
+ORD-1523,2023-05-11,Kalimantan_Tengah,Masker N95,619,27855000
+ORD-1524,2023-05-12,Sumatera_Selatan,Masker Medis 3Ply,526,5260000
+ORD-1525,2023-05-12,Riau,Masker Medis 3Ply,414,4140000
+ORD-1526,2023-05-12,Kalimantan_Barat,Masker N95,420,6300000
+ORD-1527,2023-05-12,Kalimantan_Tengah,Masker Kain,269,2690000
+ORD-1528,2023-05-13,Sumatera_Selatan,Masker N95,662,29790000
+ORD-1529,2023-05-13,Riau,Masker Kain,378,3780000
+ORD-1530,2023-05-13,Kalimantan_Barat,Masker Medis 3Ply,349,3490000
+ORD-1531,2023-05-13,Kalimantan_Tengah,Masker Medis 3Ply,514,7710000
+ORD-1532,2023-05-14,Sumatera_Selatan,Masker Medis 3Ply,500,7500000
+ORD-1533,2023-05-14,Riau,Masker Medis 3Ply,313,14085000
+ORD-1534,2023-05-14,Kalimantan_Barat,Masker Medis 3Ply,684,6840000
+ORD-1535,2023-05-14,Kalimantan_Tengah,Masker Kain,213,3195000
+ORD-1536,2023-05-15,Sumatera_Selatan,Masker Kain,461,4610000
+ORD-1537,2023-05-15,Riau,Masker N95,238,3570000
+ORD-1538,2023-05-15,Kalimantan_Barat,Masker Kain,479,21555000
+ORD-1539,2023-05-15,Kalimantan_Tengah,Masker N95,92,920000
+ORD-1540,2023-05-16,Sumatera_Selatan,Masker N95,272,4080000
+ORD-1541,2023-05-16,Riau,Masker Kain,572,8580000
+ORD-1542,2023-05-16,Kalimantan_Barat,Masker Kain,152,2280000
+ORD-1543,2023-05-16,Kalimantan_Tengah,Masker Medis 3Ply,669,6690000
+ORD-1544,2023-05-17,Sumatera_Selatan,Masker Medis 3Ply,80,800000
+ORD-1545,2023-05-17,Riau,Masker Medis 3Ply,411,18495000
+ORD-1546,2023-05-17,Kalimantan_Barat,Masker Medis 3Ply,605,27225000
+ORD-1547,2023-05-17,Kalimantan_Tengah,Masker N95,300,3000000
+ORD-1548,2023-05-18,Sumatera_Selatan,Masker Kain,471,21195000
+ORD-1549,2023-05-18,Riau,Masker Medis 3Ply,466,6990000
+ORD-1550,2023-05-18,Kalimantan_Barat,Masker N95,508,5080000
+ORD-1551,2023-05-18,Kalimantan_Tengah,Masker Medis 3Ply,385,17325000
+ORD-1552,2023-05-19,Sumatera_Selatan,Masker Kain,473,21285000
+ORD-1553,2023-05-19,Riau,Masker N95,314,3140000
+ORD-1554,2023-05-19,Kalimantan_Barat,Masker Medis 3Ply,693,6930000
+ORD-1555,2023-05-19,Kalimantan_Tengah,Masker Medis 3Ply,516,7740000
+ORD-1556,2023-05-20,Sumatera_Selatan,Masker Medis 3Ply,719,7190000
+ORD-1557,2023-05-20,Riau,Masker Medis 3Ply,122,1220000
+ORD-1558,2023-05-20,Kalimantan_Barat,Masker Kain,461,6915000
+ORD-1559,2023-05-20,Kalimantan_Tengah,Masker Medis 3Ply,152,6840000
+ORD-1560,2023-05-21,Sumatera_Selatan,Masker Medis 3Ply,508,22860000
+ORD-1561,2023-05-21,Riau,Masker Medis 3Ply,281,2810000
+ORD-1562,2023-05-21,Kalimantan_Barat,Masker Medis 3Ply,207,9315000
+ORD-1563,2023-05-21,Kalimantan_Tengah,Masker Medis 3Ply,489,7335000
+ORD-1564,2023-05-22,Sumatera_Selatan,Masker Medis 3Ply,181,1810000
+ORD-1565,2023-05-22,Riau,Masker Medis 3Ply,155,1550000
+ORD-1566,2023-05-22,Kalimantan_Barat,Masker Medis 3Ply,464,20880000
+ORD-1567,2023-05-22,Kalimantan_Tengah,Masker Medis 3Ply,278,2780000
+ORD-1568,2023-05-23,Sumatera_Selatan,Masker Medis 3Ply,231,2310000
+ORD-1569,2023-05-23,Riau,Masker Kain,366,16470000
+ORD-1570,2023-05-23,Kalimantan_Barat,Masker Medis 3Ply,304,13680000
+ORD-1571,2023-05-23,Kalimantan_Tengah,Masker N95,424,4240000
+ORD-1572,2023-05-24,Sumatera_Selatan,Masker Kain,337,15165000
+ORD-1573,2023-05-24,Riau,Masker Medis 3Ply,236,3540000
+ORD-1574,2023-05-24,Kalimantan_Barat,Masker Medis 3Ply,157,1570000
+ORD-1575,2023-05-24,Kalimantan_Tengah,Masker Medis 3Ply,319,3190000
+ORD-1576,2023-05-25,Sumatera_Selatan,Masker Medis 3Ply,149,2235000
+ORD-1577,2023-05-25,Riau,Masker N95,130,1950000
+ORD-1578,2023-05-25,Kalimantan_Barat,Masker Medis 3Ply,666,6660000
+ORD-1579,2023-05-25,Kalimantan_Tengah,Masker N95,695,6950000
+ORD-1580,2023-05-26,Sumatera_Selatan,Masker Medis 3Ply,428,4280000
+ORD-1581,2023-05-26,Riau,Masker Kain,521,23445000
+ORD-1582,2023-05-26,Kalimantan_Barat,Masker Medis 3Ply,276,12420000
+ORD-1583,2023-05-26,Kalimantan_Tengah,Masker N95,537,5370000
+ORD-1584,2023-05-27,Sumatera_Selatan,Masker N95,730,10950000
+ORD-1585,2023-05-27,Riau,Masker N95,119,1785000
+ORD-1586,2023-05-27,Kalimantan_Barat,Masker N95,343,5145000
+ORD-1587,2023-05-27,Kalimantan_Tengah,Masker N95,188,2820000
+ORD-1588,2023-05-28,Sumatera_Selatan,Masker Medis 3Ply,163,1630000
+ORD-1589,2023-05-28,Riau,Masker Medis 3Ply,516,23220000
+ORD-1590,2023-05-28,Kalimantan_Barat,Masker Kain,637,6370000
+ORD-1591,2023-05-28,Kalimantan_Tengah,Masker Medis 3Ply,416,6240000
+ORD-1592,2023-05-29,Sumatera_Selatan,Masker N95,511,5110000
+ORD-1593,2023-05-29,Riau,Masker Kain,383,17235000
+ORD-1594,2023-05-29,Kalimantan_Barat,Masker Medis 3Ply,396,5940000
+ORD-1595,2023-05-29,Kalimantan_Tengah,Masker N95,291,2910000
+ORD-1596,2023-05-30,Sumatera_Selatan,Masker N95,136,1360000
+ORD-1597,2023-05-30,Riau,Masker Medis 3Ply,304,4560000
+ORD-1598,2023-05-30,Kalimantan_Barat,Masker Medis 3Ply,594,26730000
+ORD-1599,2023-05-30,Kalimantan_Tengah,Masker Medis 3Ply,567,8505000
+ORD-1600,2023-05-31,Sumatera_Selatan,Masker N95,409,18405000
+ORD-1601,2023-05-31,Riau,Masker N95,550,5500000
+ORD-1602,2023-05-31,Kalimantan_Barat,Masker Kain,351,3510000
+ORD-1603,2023-05-31,Kalimantan_Tengah,Masker Medis 3Ply,533,23985000
+ORD-1604,2023-06-01,Sumatera_Selatan,Masker N95,522,5220000
+ORD-1605,2023-06-01,Riau,Masker Medis 3Ply,623,9345000
+ORD-1606,2023-06-01,Kalimantan_Barat,Masker Medis 3Ply,543,8145000
+ORD-1607,2023-06-01,Kalimantan_Tengah,Masker Medis 3Ply,348,15660000
+ORD-1608,2023-06-02,Sumatera_Selatan,Masker Medis 3Ply,580,8700000
+ORD-1609,2023-06-02,Riau,Masker Kain,415,18675000
+ORD-1610,2023-06-02,Kalimantan_Barat,Masker Kain,211,9495000
+ORD-1611,2023-06-02,Kalimantan_Tengah,Masker Medis 3Ply,546,5460000
+ORD-1612,2023-06-03,Sumatera_Selatan,Masker Kain,181,8145000
+ORD-1613,2023-06-03,Riau,Masker Medis 3Ply,278,4170000
+ORD-1614,2023-06-03,Kalimantan_Barat,Masker Medis 3Ply,304,4560000
+ORD-1615,2023-06-03,Kalimantan_Tengah,Masker N95,280,12600000
+ORD-1616,2023-06-04,Sumatera_Selatan,Masker Medis 3Ply,273,4095000
+ORD-1617,2023-06-04,Riau,Masker Kain,386,5790000
+ORD-1618,2023-06-04,Kalimantan_Barat,Masker Medis 3Ply,416,18720000
+ORD-1619,2023-06-04,Kalimantan_Tengah,Masker Medis 3Ply,155,1550000
+ORD-1620,2023-06-05,Sumatera_Selatan,Masker Medis 3Ply,555,24975000
+ORD-1621,2023-06-05,Riau,Masker Medis 3Ply,175,2625000
+ORD-1622,2023-06-05,Kalimantan_Barat,Masker Medis 3Ply,124,5580000
+ORD-1623,2023-06-05,Kalimantan_Tengah,Masker Kain,325,14625000
+ORD-1624,2023-06-06,Sumatera_Selatan,Masker Medis 3Ply,239,3585000
+ORD-1625,2023-06-06,Riau,Masker Medis 3Ply,423,4230000
+ORD-1626,2023-06-06,Kalimantan_Barat,Masker Kain,273,2730000
+ORD-1627,2023-06-06,Kalimantan_Tengah,Masker Medis 3Ply,611,27495000
+ORD-1628,2023-06-07,Sumatera_Selatan,Masker N95,255,2550000
+ORD-1629,2023-06-07,Riau,Masker Medis 3Ply,335,15075000
+ORD-1630,2023-06-07,Kalimantan_Barat,Masker N95,217,2170000
+ORD-1631,2023-06-07,Kalimantan_Tengah,Masker N95,147,1470000
+ORD-1632,2023-06-08,Sumatera_Selatan,Masker Kain,106,4770000
+ORD-1633,2023-06-08,Riau,Masker N95,486,4860000
+ORD-1634,2023-06-08,Kalimantan_Barat,Masker Medis 3Ply,98,1470000
+ORD-1635,2023-06-08,Kalimantan_Tengah,Masker Medis 3Ply,594,8910000
+ORD-1636,2023-06-09,Sumatera_Selatan,Masker Medis 3Ply,165,2475000
+ORD-1637,2023-06-09,Riau,Masker Medis 3Ply,501,5010000
+ORD-1638,2023-06-09,Kalimantan_Barat,Masker Medis 3Ply,549,24705000
+ORD-1639,2023-06-09,Kalimantan_Tengah,Masker Kain,505,22725000
+ORD-1640,2023-06-10,Sumatera_Selatan,Masker Medis 3Ply,395,3950000
+ORD-1641,2023-06-10,Riau,Masker Medis 3Ply,466,6990000
+ORD-1642,2023-06-10,Kalimantan_Barat,Masker Medis 3Ply,158,7110000
+ORD-1643,2023-06-10,Kalimantan_Tengah,Masker Medis 3Ply,334,15030000
+ORD-1644,2023-06-11,Sumatera_Selatan,Masker N95,474,21330000
+ORD-1645,2023-06-11,Riau,Masker Medis 3Ply,480,4800000
+ORD-1646,2023-06-11,Kalimantan_Barat,Masker Medis 3Ply,452,4520000
+ORD-1647,2023-06-11,Kalimantan_Tengah,Masker Kain,232,3480000
+ORD-1648,2023-06-12,Sumatera_Selatan,Masker N95,167,7515000
+ORD-1649,2023-06-12,Riau,Masker Medis 3Ply,163,7335000
+ORD-1650,2023-06-12,Kalimantan_Barat,Masker Medis 3Ply,273,4095000
+ORD-1651,2023-06-12,Kalimantan_Tengah,Masker N95,443,19935000
+ORD-1652,2023-06-13,Sumatera_Selatan,Masker N95,626,9390000
+ORD-1653,2023-06-13,Riau,Masker Kain,253,2530000
+ORD-1654,2023-06-13,Kalimantan_Barat,Masker N95,566,5660000
+ORD-1655,2023-06-13,Kalimantan_Tengah,Masker Medis 3Ply,467,21015000
+ORD-1656,2023-06-14,Sumatera_Selatan,Masker Kain,297,4455000
+ORD-1657,2023-06-14,Riau,Masker Medis 3Ply,503,22635000
+ORD-1658,2023-06-14,Kalimantan_Barat,Masker N95,409,18405000
+ORD-1659,2023-06-14,Kalimantan_Tengah,Masker Medis 3Ply,603,9045000
+ORD-1660,2023-06-15,Sumatera_Selatan,Masker Medis 3Ply,287,2870000
+ORD-1661,2023-06-15,Riau,Masker N95,567,5670000
+ORD-1662,2023-06-15,Kalimantan_Barat,Masker N95,94,4230000
+ORD-1663,2023-06-15,Kalimantan_Tengah,Masker Medis 3Ply,260,11700000
+ORD-1664,2023-06-16,Sumatera_Selatan,Masker N95,689,10335000
+ORD-1665,2023-06-16,Riau,Masker Medis 3Ply,314,4710000
+ORD-1666,2023-06-16,Kalimantan_Barat,Masker Medis 3Ply,356,3560000
+ORD-1667,2023-06-16,Kalimantan_Tengah,Masker Medis 3Ply,325,4875000
+ORD-1668,2023-06-17,Sumatera_Selatan,Masker N95,546,24570000
+ORD-1669,2023-06-17,Riau,Masker Medis 3Ply,499,7485000
+ORD-1670,2023-06-17,Kalimantan_Barat,Masker Medis 3Ply,377,3770000
+ORD-1671,2023-06-17,Kalimantan_Tengah,Masker Kain,249,3735000
+ORD-1672,2023-06-18,Sumatera_Selatan,Masker Medis 3Ply,410,6150000
+ORD-1673,2023-06-18,Riau,Masker Medis 3Ply,105,1050000
+ORD-1674,2023-06-18,Kalimantan_Barat,Masker Medis 3Ply,462,20790000
+ORD-1675,2023-06-18,Kalimantan_Tengah,Masker Medis 3Ply,353,3530000
+ORD-1676,2023-06-19,Sumatera_Selatan,Masker N95,193,1930000
+ORD-1677,2023-06-19,Riau,Masker N95,124,1240000
+ORD-1678,2023-06-19,Kalimantan_Barat,Masker Kain,426,6390000
+ORD-1679,2023-06-19,Kalimantan_Tengah,Masker Medis 3Ply,348,5220000
+ORD-1680,2023-06-20,Sumatera_Selatan,Masker Medis 3Ply,503,22635000
+ORD-1681,2023-06-20,Riau,Masker Medis 3Ply,376,5640000
+ORD-1682,2023-06-20,Kalimantan_Barat,Masker N95,440,4400000
+ORD-1683,2023-06-20,Kalimantan_Tengah,Masker Medis 3Ply,430,6450000
+ORD-1684,2023-06-21,Sumatera_Selatan,Masker Medis 3Ply,263,11835000
+ORD-1685,2023-06-21,Riau,Masker N95,346,5190000
+ORD-1686,2023-06-21,Kalimantan_Barat,Masker Kain,422,4220000
+ORD-1687,2023-06-21,Kalimantan_Tengah,Masker Medis 3Ply,544,24480000
+ORD-1688,2023-06-22,Sumatera_Selatan,Masker Medis 3Ply,434,19530000
+ORD-1689,2023-06-22,Riau,Masker N95,324,4860000
+ORD-1690,2023-06-22,Kalimantan_Barat,Masker Medis 3Ply,245,2450000
+ORD-1691,2023-06-22,Kalimantan_Tengah,Masker Medis 3Ply,435,19575000
+ORD-1692,2023-06-23,Sumatera_Selatan,Masker Medis 3Ply,420,18900000
+ORD-1693,2023-06-23,Riau,Masker N95,81,1215000
+ORD-1694,2023-06-23,Kalimantan_Barat,Masker Medis 3Ply,244,10980000
+ORD-1695,2023-06-23,Kalimantan_Tengah,Masker N95,192,8640000
+ORD-1696,2023-06-24,Sumatera_Selatan,Masker Medis 3Ply,276,4140000
+ORD-1697,2023-06-24,Riau,Masker Medis 3Ply,454,20430000
+ORD-1698,2023-06-24,Kalimantan_Barat,Masker Medis 3Ply,540,5400000
+ORD-1699,2023-06-24,Kalimantan_Tengah,Masker N95,115,5175000
+ORD-1700,2023-06-25,Sumatera_Selatan,Masker Medis 3Ply,379,17055000
+ORD-1701,2023-06-25,Riau,Masker Kain,200,2000000
+ORD-1702,2023-06-25,Kalimantan_Barat,Masker N95,571,25695000
+ORD-1703,2023-06-25,Kalimantan_Tengah,Masker Medis 3Ply,646,9690000
+ORD-1704,2023-06-26,Sumatera_Selatan,Masker Medis 3Ply,201,3015000
+ORD-1705,2023-06-26,Riau,Masker Medis 3Ply,627,28215000
+ORD-1706,2023-06-26,Kalimantan_Barat,Masker Medis 3Ply,420,6300000
+ORD-1707,2023-06-26,Kalimantan_Tengah,Masker Medis 3Ply,489,7335000
+ORD-1708,2023-06-27,Sumatera_Selatan,Masker Medis 3Ply,195,2925000
+ORD-1709,2023-06-27,Riau,Masker Medis 3Ply,126,5670000
+ORD-1710,2023-06-27,Kalimantan_Barat,Masker Medis 3Ply,125,1250000
+ORD-1711,2023-06-27,Kalimantan_Tengah,Masker Medis 3Ply,613,6130000
+ORD-1712,2023-06-28,Sumatera_Selatan,Masker N95,342,15390000
+ORD-1713,2023-06-28,Riau,Masker Kain,621,27945000
+ORD-1714,2023-06-28,Kalimantan_Barat,Masker Kain,650,9750000
+ORD-1715,2023-06-28,Kalimantan_Tengah,Masker Kain,459,20655000
+ORD-1716,2023-06-29,Sumatera_Selatan,Masker Medis 3Ply,269,4035000
+ORD-1717,2023-06-29,Riau,Masker N95,127,5715000
+ORD-1718,2023-06-29,Kalimantan_Barat,Masker Kain,562,5620000
+ORD-1719,2023-06-29,Kalimantan_Tengah,Masker Medis 3Ply,466,4660000
+ORD-1720,2023-06-30,Sumatera_Selatan,Masker Medis 3Ply,474,4740000
+ORD-1721,2023-06-30,Riau,Masker Kain,197,2955000
+ORD-1722,2023-06-30,Kalimantan_Barat,Masker Medis 3Ply,97,970000
+ORD-1723,2023-06-30,Kalimantan_Tengah,Masker Kain,418,4180000
+ORD-1724,2023-07-01,Sumatera_Selatan,Masker Medis 3Ply,629,28305000
+ORD-1725,2023-07-01,Riau,Masker Medis 3Ply,3630,54450000
+ORD-1726,2023-07-01,Kalimantan_Barat,Masker Medis 3Ply,129,1290000
+ORD-1727,2023-07-01,Kalimantan_Tengah,Masker Medis 3Ply,5190,77850000
+ORD-1728,2023-07-02,Sumatera_Selatan,Masker Medis 3Ply,424,6360000
+ORD-1729,2023-07-02,Riau,Masker N95,3149,141705000
+ORD-1730,2023-07-02,Kalimantan_Barat,Masker N95,105,1575000
+ORD-1731,2023-07-02,Kalimantan_Tengah,Masker N95,5608,84120000
+ORD-1732,2023-07-03,Sumatera_Selatan,Masker Kain,205,2050000
+ORD-1733,2023-07-03,Riau,Masker Medis 3Ply,2910,43650000
+ORD-1734,2023-07-03,Kalimantan_Barat,Masker Kain,237,2370000
+ORD-1735,2023-07-03,Kalimantan_Tengah,Masker N95,3655,164475000
+ORD-1736,2023-07-04,Sumatera_Selatan,Masker N95,234,2340000
+ORD-1737,2023-07-04,Riau,Masker Kain,7306,73060000
+ORD-1738,2023-07-04,Kalimantan_Barat,Masker Kain,429,19305000
+ORD-1739,2023-07-04,Kalimantan_Tengah,Masker Medis 3Ply,5743,258435000
+ORD-1740,2023-07-05,Sumatera_Selatan,Masker Kain,404,4040000
+ORD-1741,2023-07-05,Riau,Masker Kain,3430,34300000
+ORD-1742,2023-07-05,Kalimantan_Barat,Masker N95,253,11385000
+ORD-1743,2023-07-05,Kalimantan_Tengah,Masker Kain,2864,42960000
+ORD-1744,2023-07-06,Sumatera_Selatan,Masker N95,108,4860000
+ORD-1745,2023-07-06,Riau,Masker Kain,3417,34170000
+ORD-1746,2023-07-06,Kalimantan_Barat,Masker Medis 3Ply,312,4680000
+ORD-1747,2023-07-06,Kalimantan_Tengah,Masker Medis 3Ply,2678,26780000
+ORD-1748,2023-07-07,Sumatera_Selatan,Masker Medis 3Ply,280,12600000
+ORD-1749,2023-07-07,Riau,Masker N95,5407,81105000
+ORD-1750,2023-07-07,Kalimantan_Barat,Masker Kain,520,23400000
+ORD-1751,2023-07-07,Kalimantan_Tengah,Masker N95,4835,217575000
+ORD-1752,2023-07-08,Sumatera_Selatan,Masker Kain,268,4020000
+ORD-1753,2023-07-08,Riau,Masker Medis 3Ply,5499,82485000
+ORD-1754,2023-07-08,Kalimantan_Barat,Masker Medis 3Ply,386,17370000
+ORD-1755,2023-07-08,Kalimantan_Tengah,Masker N95,3651,164295000
+ORD-1756,2023-07-09,Sumatera_Selatan,Masker Kain,197,1970000
+ORD-1757,2023-07-09,Riau,Masker Medis 3Ply,2212,99540000
+ORD-1758,2023-07-09,Kalimantan_Barat,Masker Medis 3Ply,161,2415000
+ORD-1759,2023-07-09,Kalimantan_Tengah,Masker Medis 3Ply,3167,31670000
+ORD-1760,2023-07-10,Sumatera_Selatan,Masker Medis 3Ply,134,1340000
+ORD-1761,2023-07-10,Riau,Masker Medis 3Ply,3944,177480000
+ORD-1762,2023-07-10,Kalimantan_Barat,Masker N95,271,4065000
+ORD-1763,2023-07-10,Kalimantan_Tengah,Masker N95,5691,56910000
+ORD-1764,2023-07-11,Sumatera_Selatan,Masker N95,271,4065000
+ORD-1765,2023-07-11,Riau,Masker Kain,2299,103455000
+ORD-1766,2023-07-11,Kalimantan_Barat,Masker Medis 3Ply,675,6750000
+ORD-1767,2023-07-11,Kalimantan_Tengah,Masker Medis 3Ply,3951,177795000
+ORD-1768,2023-07-12,Sumatera_Selatan,Masker N95,497,22365000
+ORD-1769,2023-07-12,Riau,Masker Medis 3Ply,3274,147330000
+ORD-1770,2023-07-12,Kalimantan_Barat,Masker N95,291,13095000
+ORD-1771,2023-07-12,Kalimantan_Tengah,Masker Kain,3901,175545000
+ORD-1772,2023-07-13,Sumatera_Selatan,Masker Kain,625,28125000
+ORD-1773,2023-07-13,Riau,Masker Medis 3Ply,3094,30940000
+ORD-1774,2023-07-13,Kalimantan_Barat,Masker Medis 3Ply,616,6160000
+ORD-1775,2023-07-13,Kalimantan_Tengah,Masker Medis 3Ply,3206,32060000
+ORD-1776,2023-07-14,Sumatera_Selatan,Masker Medis 3Ply,102,1020000
+ORD-1777,2023-07-14,Riau,Masker N95,5848,87720000
+ORD-1778,2023-07-14,Kalimantan_Barat,Masker N95,416,4160000
+ORD-1779,2023-07-14,Kalimantan_Tengah,Masker Medis 3Ply,3719,167355000
+ORD-1780,2023-07-15,Sumatera_Selatan,Masker Medis 3Ply,458,4580000
+ORD-1781,2023-07-15,Riau,Masker Kain,6411,96165000
+ORD-1782,2023-07-15,Kalimantan_Barat,Masker N95,324,4860000
+ORD-1783,2023-07-15,Kalimantan_Tengah,Masker N95,6162,92430000
+ORD-1784,2023-07-16,Sumatera_Selatan,Masker Medis 3Ply,541,24345000
+ORD-1785,2023-07-16,Riau,Masker Medis 3Ply,4995,49950000
+ORD-1786,2023-07-16,Kalimantan_Barat,Masker Medis 3Ply,213,2130000
+ORD-1787,2023-07-16,Kalimantan_Tengah,Masker N95,3258,48870000
+ORD-1788,2023-07-17,Sumatera_Selatan,Masker N95,485,4850000
+ORD-1789,2023-07-17,Riau,Masker Medis 3Ply,3164,47460000
+ORD-1790,2023-07-17,Kalimantan_Barat,Masker N95,119,1785000
+ORD-1791,2023-07-17,Kalimantan_Tengah,Masker Kain,3669,36690000
+ORD-1792,2023-07-18,Sumatera_Selatan,Masker Kain,514,5140000
+ORD-1793,2023-07-18,Riau,Masker Kain,6140,276300000
+ORD-1794,2023-07-18,Kalimantan_Barat,Masker N95,303,13635000
+ORD-1795,2023-07-18,Kalimantan_Tengah,Masker N95,5924,266580000
+ORD-1796,2023-07-19,Sumatera_Selatan,Masker Medis 3Ply,367,3670000
+ORD-1797,2023-07-19,Riau,Masker Medis 3Ply,5514,82710000
+ORD-1798,2023-07-19,Kalimantan_Barat,Masker N95,629,9435000
+ORD-1799,2023-07-19,Kalimantan_Tengah,Masker N95,2790,125550000
+ORD-1800,2023-07-20,Sumatera_Selatan,Masker Medis 3Ply,270,2700000
+ORD-1801,2023-07-20,Riau,Masker Kain,5512,82680000
+ORD-1802,2023-07-20,Kalimantan_Barat,Masker N95,389,3890000
+ORD-1803,2023-07-20,Kalimantan_Tengah,Masker N95,6145,92175000
+ORD-1804,2023-07-21,Sumatera_Selatan,Masker Medis 3Ply,100,1000000
+ORD-1805,2023-07-21,Riau,Masker Medis 3Ply,3642,36420000
+ORD-1806,2023-07-21,Kalimantan_Barat,Masker Medis 3Ply,199,1990000
+ORD-1807,2023-07-21,Kalimantan_Tengah,Masker N95,3909,58635000
+ORD-1808,2023-07-22,Sumatera_Selatan,Masker Medis 3Ply,150,2250000
+ORD-1809,2023-07-22,Riau,Masker Medis 3Ply,4275,64125000
+ORD-1810,2023-07-22,Kalimantan_Barat,Masker Medis 3Ply,178,2670000
+ORD-1811,2023-07-22,Kalimantan_Tengah,Masker Medis 3Ply,2997,134865000
+ORD-1812,2023-07-23,Sumatera_Selatan,Masker Medis 3Ply,275,4125000
+ORD-1813,2023-07-23,Riau,Masker Medis 3Ply,3966,178470000
+ORD-1814,2023-07-23,Kalimantan_Barat,Masker Medis 3Ply,549,8235000
+ORD-1815,2023-07-23,Kalimantan_Tengah,Masker Medis 3Ply,5882,264690000
+ORD-1816,2023-07-24,Sumatera_Selatan,Masker Kain,575,5750000
+ORD-1817,2023-07-24,Riau,Masker Medis 3Ply,6101,91515000
+ORD-1818,2023-07-24,Kalimantan_Barat,Masker Medis 3Ply,504,5040000
+ORD-1819,2023-07-24,Kalimantan_Tengah,Masker Medis 3Ply,4474,67110000
+ORD-1820,2023-07-25,Sumatera_Selatan,Masker Medis 3Ply,674,6740000
+ORD-1821,2023-07-25,Riau,Masker N95,7239,108585000
+ORD-1822,2023-07-25,Kalimantan_Barat,Masker Kain,138,1380000
+ORD-1823,2023-07-25,Kalimantan_Tengah,Masker Kain,3439,51585000
+ORD-1824,2023-07-26,Sumatera_Selatan,Masker N95,205,9225000
+ORD-1825,2023-07-26,Riau,Masker Medis 3Ply,2762,41430000
+ORD-1826,2023-07-26,Kalimantan_Barat,Masker Medis 3Ply,204,9180000
+ORD-1827,2023-07-26,Kalimantan_Tengah,Masker Medis 3Ply,3466,34660000
+ORD-1828,2023-07-27,Sumatera_Selatan,Masker Medis 3Ply,301,4515000
+ORD-1829,2023-07-27,Riau,Masker Medis 3Ply,4541,45410000
+ORD-1830,2023-07-27,Kalimantan_Barat,Masker Kain,262,2620000
+ORD-1831,2023-07-27,Kalimantan_Tengah,Masker Kain,5052,50520000
+ORD-1832,2023-07-28,Sumatera_Selatan,Masker N95,449,20205000
+ORD-1833,2023-07-28,Riau,Masker Medis 3Ply,5593,55930000
+ORD-1834,2023-07-28,Kalimantan_Barat,Masker Medis 3Ply,362,3620000
+ORD-1835,2023-07-28,Kalimantan_Tengah,Masker N95,3827,172215000
+ORD-1836,2023-07-29,Sumatera_Selatan,Masker N95,229,2290000
+ORD-1837,2023-07-29,Riau,Masker Medis 3Ply,6944,69440000
+ORD-1838,2023-07-29,Kalimantan_Barat,Masker Medis 3Ply,571,5710000
+ORD-1839,2023-07-29,Kalimantan_Tengah,Masker Kain,2751,123795000
+ORD-1840,2023-07-30,Sumatera_Selatan,Masker Medis 3Ply,169,2535000
+ORD-1841,2023-07-30,Riau,Masker N95,5673,85095000
+ORD-1842,2023-07-30,Kalimantan_Barat,Masker N95,125,1250000
+ORD-1843,2023-07-30,Kalimantan_Tengah,Masker Medis 3Ply,3790,170550000
+ORD-1844,2023-07-31,Sumatera_Selatan,Masker N95,404,4040000
+ORD-1845,2023-07-31,Riau,Masker Kain,7513,338085000
+ORD-1846,2023-07-31,Kalimantan_Barat,Masker N95,577,25965000
+ORD-1847,2023-07-31,Kalimantan_Tengah,Masker Kain,3044,136980000
+ORD-1848,2023-08-01,Sumatera_Selatan,Masker Medis 3Ply,381,3810000
+ORD-1849,2023-08-01,Riau,Masker N95,2841,127845000
+ORD-1850,2023-08-01,Kalimantan_Barat,Masker Medis 3Ply,197,2955000
+ORD-1851,2023-08-01,Kalimantan_Tengah,Masker Kain,3486,34860000
+ORD-1852,2023-08-02,Sumatera_Selatan,Masker N95,197,1970000
+ORD-1853,2023-08-02,Riau,Masker Medis 3Ply,4633,46330000
+ORD-1854,2023-08-02,Kalimantan_Barat,Masker Medis 3Ply,432,4320000
+ORD-1855,2023-08-02,Kalimantan_Tengah,Masker N95,5983,59830000
+ORD-1856,2023-08-03,Sumatera_Selatan,Masker N95,277,4155000
+ORD-1857,2023-08-03,Riau,Masker Medis 3Ply,3376,50640000
+ORD-1858,2023-08-03,Kalimantan_Barat,Masker Medis 3Ply,307,3070000
+ORD-1859,2023-08-03,Kalimantan_Tengah,Masker N95,4615,69225000
+ORD-1860,2023-08-04,Sumatera_Selatan,Masker Medis 3Ply,274,4110000
+ORD-1861,2023-08-04,Riau,Masker N95,4606,69090000
+ORD-1862,2023-08-04,Kalimantan_Barat,Masker Kain,260,11700000
+ORD-1863,2023-08-04,Kalimantan_Tengah,Masker Medis 3Ply,4495,67425000
+ORD-1864,2023-08-05,Sumatera_Selatan,Masker Medis 3Ply,525,7875000
+ORD-1865,2023-08-05,Riau,Masker Kain,6514,65140000
+ORD-1866,2023-08-05,Kalimantan_Barat,Masker Medis 3Ply,207,3105000
+ORD-1867,2023-08-05,Kalimantan_Tengah,Masker N95,3144,141480000
+ORD-1868,2023-08-06,Sumatera_Selatan,Masker Kain,585,8775000
+ORD-1869,2023-08-06,Riau,Masker Medis 3Ply,7335,110025000
+ORD-1870,2023-08-06,Kalimantan_Barat,Masker N95,458,6870000
+ORD-1871,2023-08-06,Kalimantan_Tengah,Masker Kain,6938,312210000
+ORD-1872,2023-08-07,Sumatera_Selatan,Masker Kain,411,6165000
+ORD-1873,2023-08-07,Riau,Masker N95,6778,101670000
+ORD-1874,2023-08-07,Kalimantan_Barat,Masker Medis 3Ply,429,19305000
+ORD-1875,2023-08-07,Kalimantan_Tengah,Masker Medis 3Ply,4101,184545000
+ORD-1876,2023-08-08,Sumatera_Selatan,Masker Medis 3Ply,463,4630000
+ORD-1877,2023-08-08,Riau,Masker Kain,2196,21960000
+ORD-1878,2023-08-08,Kalimantan_Barat,Masker Medis 3Ply,293,13185000
+ORD-1879,2023-08-08,Kalimantan_Tengah,Masker Medis 3Ply,4655,46550000
+ORD-1880,2023-08-09,Sumatera_Selatan,Masker Kain,245,2450000
+ORD-1881,2023-08-09,Riau,Masker Medis 3Ply,4117,41170000
+ORD-1882,2023-08-09,Kalimantan_Barat,Masker Kain,280,12600000
+ORD-1883,2023-08-09,Kalimantan_Tengah,Masker Medis 3Ply,4421,66315000
+ORD-1884,2023-08-10,Sumatera_Selatan,Masker Medis 3Ply,436,4360000
+ORD-1885,2023-08-10,Riau,Masker N95,6697,66970000
+ORD-1886,2023-08-10,Kalimantan_Barat,Masker N95,531,23895000
+ORD-1887,2023-08-10,Kalimantan_Tengah,Masker Medis 3Ply,3698,36980000
+ORD-1888,2023-08-11,Sumatera_Selatan,Masker Medis 3Ply,274,12330000
+ORD-1889,2023-08-11,Riau,Masker N95,7941,79410000
+ORD-1890,2023-08-11,Kalimantan_Barat,Masker Medis 3Ply,107,4815000
+ORD-1891,2023-08-11,Kalimantan_Tengah,Masker Medis 3Ply,5856,87840000
+ORD-1892,2023-08-12,Sumatera_Selatan,Masker Medis 3Ply,430,6450000
+ORD-1893,2023-08-12,Riau,Masker Kain,2300,34500000
+ORD-1894,2023-08-12,Kalimantan_Barat,Masker Medis 3Ply,523,7845000
+ORD-1895,2023-08-12,Kalimantan_Tengah,Masker Medis 3Ply,3110,46650000
+ORD-1896,2023-08-13,Sumatera_Selatan,Masker Kain,185,1850000
+ORD-1897,2023-08-13,Riau,Masker Medis 3Ply,5019,50190000
+ORD-1898,2023-08-13,Kalimantan_Barat,Masker Kain,187,1870000
+ORD-1899,2023-08-13,Kalimantan_Tengah,Masker Kain,5217,52170000
+ORD-1900,2023-08-14,Sumatera_Selatan,Masker Medis 3Ply,585,26325000
+ORD-1901,2023-08-14,Riau,Masker Medis 3Ply,3100,139500000
+ORD-1902,2023-08-14,Kalimantan_Barat,Masker Medis 3Ply,411,4110000
+ORD-1903,2023-08-14,Kalimantan_Tengah,Masker Medis 3Ply,4197,62955000
+ORD-1904,2023-08-15,Sumatera_Selatan,Masker Medis 3Ply,553,5530000
+ORD-1905,2023-08-15,Riau,Masker Medis 3Ply,3476,156420000
+ORD-1906,2023-08-15,Kalimantan_Barat,Masker Medis 3Ply,262,2620000
+ORD-1907,2023-08-15,Kalimantan_Tengah,Masker Kain,3687,55305000
+ORD-1908,2023-08-16,Sumatera_Selatan,Masker Medis 3Ply,399,17955000
+ORD-1909,2023-08-16,Riau,Masker Medis 3Ply,3759,56385000
+ORD-1910,2023-08-16,Kalimantan_Barat,Masker Kain,435,6525000
+ORD-1911,2023-08-16,Kalimantan_Tengah,Masker N95,2788,125460000
+ORD-1912,2023-08-17,Sumatera_Selatan,Masker Kain,208,9360000
+ORD-1913,2023-08-17,Riau,Masker Medis 3Ply,6343,95145000
+ORD-1914,2023-08-17,Kalimantan_Barat,Masker Medis 3Ply,609,27405000
+ORD-1915,2023-08-17,Kalimantan_Tengah,Masker N95,4468,44680000
+ORD-1916,2023-08-18,Sumatera_Selatan,Masker N95,575,25875000
+ORD-1917,2023-08-18,Riau,Masker Medis 3Ply,5407,81105000
+ORD-1918,2023-08-18,Kalimantan_Barat,Masker Kain,318,4770000
+ORD-1919,2023-08-18,Kalimantan_Tengah,Masker Medis 3Ply,2612,26120000
+ORD-1920,2023-08-19,Sumatera_Selatan,Masker Kain,609,9135000
+ORD-1921,2023-08-19,Riau,Masker Medis 3Ply,6907,103605000
+ORD-1922,2023-08-19,Kalimantan_Barat,Masker Medis 3Ply,570,25650000
+ORD-1923,2023-08-19,Kalimantan_Tengah,Masker Medis 3Ply,6861,308745000
+ORD-1924,2023-08-20,Sumatera_Selatan,Masker N95,374,16830000
+ORD-1925,2023-08-20,Riau,Masker Medis 3Ply,2715,40725000
+ORD-1926,2023-08-20,Kalimantan_Barat,Masker Kain,346,5190000
+ORD-1927,2023-08-20,Kalimantan_Tengah,Masker Medis 3Ply,6637,298665000
+ORD-1928,2023-08-21,Sumatera_Selatan,Masker Medis 3Ply,245,11025000
+ORD-1929,2023-08-21,Riau,Masker Medis 3Ply,5920,59200000
+ORD-1930,2023-08-21,Kalimantan_Barat,Masker Kain,146,6570000
+ORD-1931,2023-08-21,Kalimantan_Tengah,Masker N95,4188,188460000
+ORD-1932,2023-08-22,Sumatera_Selatan,Masker Kain,565,25425000
+ORD-1933,2023-08-22,Riau,Masker Kain,4007,180315000
+ORD-1934,2023-08-22,Kalimantan_Barat,Masker Medis 3Ply,168,1680000
+ORD-1935,2023-08-22,Kalimantan_Tengah,Masker N95,6485,64850000
+ORD-1936,2023-08-23,Sumatera_Selatan,Masker N95,592,5920000
+ORD-1937,2023-08-23,Riau,Masker Medis 3Ply,3074,30740000
+ORD-1938,2023-08-23,Kalimantan_Barat,Masker N95,158,2370000
+ORD-1939,2023-08-23,Kalimantan_Tengah,Masker Kain,6776,101640000
+ORD-1940,2023-08-24,Sumatera_Selatan,Masker Medis 3Ply,252,3780000
+ORD-1941,2023-08-24,Riau,Masker Medis 3Ply,5408,54080000
+ORD-1942,2023-08-24,Kalimantan_Barat,Masker N95,636,9540000
+ORD-1943,2023-08-24,Kalimantan_Tengah,Masker N95,3991,59865000
+ORD-1944,2023-08-25,Sumatera_Selatan,Masker N95,611,27495000
+ORD-1945,2023-08-25,Riau,Masker Medis 3Ply,5851,58510000
+ORD-1946,2023-08-25,Kalimantan_Barat,Masker N95,206,2060000
+ORD-1947,2023-08-25,Kalimantan_Tengah,Masker N95,2207,33105000
+ORD-1948,2023-08-26,Sumatera_Selatan,Masker Medis 3Ply,177,2655000
+ORD-1949,2023-08-26,Riau,Masker Medis 3Ply,6761,304245000
+ORD-1950,2023-08-26,Kalimantan_Barat,Masker Medis 3Ply,155,6975000
+ORD-1951,2023-08-26,Kalimantan_Tengah,Masker Kain,7020,315900000
+ORD-1952,2023-08-27,Sumatera_Selatan,Masker Medis 3Ply,267,12015000
+ORD-1953,2023-08-27,Riau,Masker Medis 3Ply,3386,152370000
+ORD-1954,2023-08-27,Kalimantan_Barat,Masker Medis 3Ply,148,2220000
+ORD-1955,2023-08-27,Kalimantan_Tengah,Masker Kain,3020,135900000
+ORD-1956,2023-08-28,Sumatera_Selatan,Masker Medis 3Ply,588,26460000
+ORD-1957,2023-08-28,Riau,Masker N95,3687,55305000
+ORD-1958,2023-08-28,Kalimantan_Barat,Masker Kain,203,9135000
+ORD-1959,2023-08-28,Kalimantan_Tengah,Masker Medis 3Ply,5648,56480000
+ORD-1960,2023-08-29,Sumatera_Selatan,Masker Medis 3Ply,690,10350000
+ORD-1961,2023-08-29,Riau,Masker Medis 3Ply,4183,41830000
+ORD-1962,2023-08-29,Kalimantan_Barat,Masker N95,344,15480000
+ORD-1963,2023-08-29,Kalimantan_Tengah,Masker Medis 3Ply,7048,70480000
+ORD-1964,2023-08-30,Sumatera_Selatan,Masker Medis 3Ply,295,13275000
+ORD-1965,2023-08-30,Riau,Masker Medis 3Ply,3977,59655000
+ORD-1966,2023-08-30,Kalimantan_Barat,Masker N95,393,17685000
+ORD-1967,2023-08-30,Kalimantan_Tengah,Masker Medis 3Ply,5712,57120000
+ORD-1968,2023-08-31,Sumatera_Selatan,Masker N95,433,4330000
+ORD-1969,2023-08-31,Riau,Masker Kain,2634,26340000
+ORD-1970,2023-08-31,Kalimantan_Barat,Masker Kain,244,3660000
+ORD-1971,2023-08-31,Kalimantan_Tengah,Masker N95,5581,83715000
+ORD-1972,2023-09-01,Sumatera_Selatan,Masker Kain,499,4990000
+ORD-1973,2023-09-01,Riau,Masker Medis 3Ply,4242,63630000
+ORD-1974,2023-09-01,Kalimantan_Barat,Masker Kain,424,4240000
+ORD-1975,2023-09-01,Kalimantan_Tengah,Masker Medis 3Ply,4221,63315000
+ORD-1976,2023-09-02,Sumatera_Selatan,Masker Kain,371,16695000
+ORD-1977,2023-09-02,Riau,Masker Medis 3Ply,3207,32070000
+ORD-1978,2023-09-02,Kalimantan_Barat,Masker Kain,457,6855000
+ORD-1979,2023-09-02,Kalimantan_Tengah,Masker N95,4324,194580000
+ORD-1980,2023-09-03,Sumatera_Selatan,Masker Kain,361,16245000
+ORD-1981,2023-09-03,Riau,Masker Kain,2621,117945000
+ORD-1982,2023-09-03,Kalimantan_Barat,Masker Medis 3Ply,116,1740000
+ORD-1983,2023-09-03,Kalimantan_Tengah,Masker Kain,5867,264015000
+ORD-1984,2023-09-04,Sumatera_Selatan,Masker Medis 3Ply,328,14760000
+ORD-1985,2023-09-04,Riau,Masker Medis 3Ply,2279,22790000
+ORD-1986,2023-09-04,Kalimantan_Barat,Masker Medis 3Ply,172,2580000
+ORD-1987,2023-09-04,Kalimantan_Tengah,Masker N95,5988,269460000
+ORD-1988,2023-09-05,Sumatera_Selatan,Masker Medis 3Ply,447,6705000
+ORD-1989,2023-09-05,Riau,Masker Medis 3Ply,3527,158715000
+ORD-1990,2023-09-05,Kalimantan_Barat,Masker Medis 3Ply,290,13050000
+ORD-1991,2023-09-05,Kalimantan_Tengah,Masker Kain,2238,22380000
+ORD-1992,2023-09-06,Sumatera_Selatan,Masker Medis 3Ply,214,2140000
+ORD-1993,2023-09-06,Riau,Masker N95,6495,292275000
+ORD-1994,2023-09-06,Kalimantan_Barat,Masker N95,639,6390000
+ORD-1995,2023-09-06,Kalimantan_Tengah,Masker Medis 3Ply,6812,306540000
+ORD-1996,2023-09-07,Sumatera_Selatan,Masker N95,637,9555000
+ORD-1997,2023-09-07,Riau,Masker Medis 3Ply,7477,336465000
+ORD-1998,2023-09-07,Kalimantan_Barat,Masker N95,326,3260000
+ORD-1999,2023-09-07,Kalimantan_Tengah,Masker Medis 3Ply,6171,277695000
+ORD-2000,2023-09-08,Sumatera_Selatan,Masker Medis 3Ply,509,7635000
+ORD-2001,2023-09-08,Riau,Masker N95,4401,198045000
+ORD-2002,2023-09-08,Kalimantan_Barat,Masker Medis 3Ply,430,4300000
+ORD-2003,2023-09-08,Kalimantan_Tengah,Masker Medis 3Ply,3438,34380000
+ORD-2004,2023-09-09,Sumatera_Selatan,Masker Kain,626,28170000
+ORD-2005,2023-09-09,Riau,Masker Medis 3Ply,4961,49610000
+ORD-2006,2023-09-09,Kalimantan_Barat,Masker Medis 3Ply,400,6000000
+ORD-2007,2023-09-09,Kalimantan_Tengah,Masker Medis 3Ply,2853,28530000
+ORD-2008,2023-09-10,Sumatera_Selatan,Masker Medis 3Ply,233,10485000
+ORD-2009,2023-09-10,Riau,Masker N95,2421,36315000
+ORD-2010,2023-09-10,Kalimantan_Barat,Masker Kain,137,1370000
+ORD-2011,2023-09-10,Kalimantan_Tengah,Masker N95,5479,54790000
+ORD-2012,2023-09-11,Sumatera_Selatan,Masker Medis 3Ply,445,6675000
+ORD-2013,2023-09-11,Riau,Masker Medis 3Ply,5541,83115000
+ORD-2014,2023-09-11,Kalimantan_Barat,Masker Kain,496,4960000
+ORD-2015,2023-09-11,Kalimantan_Tengah,Masker Medis 3Ply,4967,49670000
+ORD-2016,2023-09-12,Sumatera_Selatan,Masker Medis 3Ply,217,3255000
+ORD-2017,2023-09-12,Riau,Masker Kain,4786,71790000
+ORD-2018,2023-09-12,Kalimantan_Barat,Masker N95,566,25470000
+ORD-2019,2023-09-12,Kalimantan_Tengah,Masker N95,4716,70740000
+ORD-2020,2023-09-13,Sumatera_Selatan,Masker N95,578,8670000
+ORD-2021,2023-09-13,Riau,Masker Medis 3Ply,6672,66720000
+ORD-2022,2023-09-13,Kalimantan_Barat,Masker Medis 3Ply,251,3765000
+ORD-2023,2023-09-13,Kalimantan_Tengah,Masker Kain,4567,205515000
+ORD-2024,2023-09-14,Sumatera_Selatan,Masker Medis 3Ply,386,3860000
+ORD-2025,2023-09-14,Riau,Masker Medis 3Ply,2460,36900000
+ORD-2026,2023-09-14,Kalimantan_Barat,Masker N95,599,8985000
+ORD-2027,2023-09-14,Kalimantan_Tengah,Masker N95,2368,23680000
+ORD-2028,2023-09-15,Sumatera_Selatan,Masker N95,414,18630000
+ORD-2029,2023-09-15,Riau,Masker N95,2913,29130000
+ORD-2030,2023-09-15,Kalimantan_Barat,Masker N95,434,19530000
+ORD-2031,2023-09-15,Kalimantan_Tengah,Masker Medis 3Ply,4371,196695000
+ORD-2032,2023-09-16,Sumatera_Selatan,Masker Medis 3Ply,454,4540000
+ORD-2033,2023-09-16,Riau,Masker Medis 3Ply,3262,146790000
+ORD-2034,2023-09-16,Kalimantan_Barat,Masker Medis 3Ply,639,6390000
+ORD-2035,2023-09-16,Kalimantan_Tengah,Masker Medis 3Ply,3824,57360000
+ORD-2036,2023-09-17,Sumatera_Selatan,Masker Medis 3Ply,436,6540000
+ORD-2037,2023-09-17,Riau,Masker Kain,3999,179955000
+ORD-2038,2023-09-17,Kalimantan_Barat,Masker N95,519,5190000
+ORD-2039,2023-09-17,Kalimantan_Tengah,Masker Kain,6614,66140000
+ORD-2040,2023-09-18,Sumatera_Selatan,Masker Medis 3Ply,239,2390000
+ORD-2041,2023-09-18,Riau,Masker Medis 3Ply,4044,60660000
+ORD-2042,2023-09-18,Kalimantan_Barat,Masker Medis 3Ply,398,17910000
+ORD-2043,2023-09-18,Kalimantan_Tengah,Masker Medis 3Ply,5024,50240000
+ORD-2044,2023-09-19,Sumatera_Selatan,Masker N95,115,5175000
+ORD-2045,2023-09-19,Riau,Masker Medis 3Ply,4448,66720000
+ORD-2046,2023-09-19,Kalimantan_Barat,Masker Medis 3Ply,484,7260000
+ORD-2047,2023-09-19,Kalimantan_Tengah,Masker Medis 3Ply,2675,26750000
+ORD-2048,2023-09-20,Sumatera_Selatan,Masker N95,355,3550000
+ORD-2049,2023-09-20,Riau,Masker N95,5762,86430000
+ORD-2050,2023-09-20,Kalimantan_Barat,Masker N95,279,4185000
+ORD-2051,2023-09-20,Kalimantan_Tengah,Masker N95,4020,60300000
+ORD-2052,2023-09-21,Sumatera_Selatan,Masker Kain,668,30060000
+ORD-2053,2023-09-21,Riau,Masker Kain,3518,35180000
+ORD-2054,2023-09-21,Kalimantan_Barat,Masker N95,513,23085000
+ORD-2055,2023-09-21,Kalimantan_Tengah,Masker N95,5202,78030000
+ORD-2056,2023-09-22,Sumatera_Selatan,Masker N95,376,5640000
+ORD-2057,2023-09-22,Riau,Masker N95,3429,154305000
+ORD-2058,2023-09-22,Kalimantan_Barat,Masker Medis 3Ply,587,26415000
+ORD-2059,2023-09-22,Kalimantan_Tengah,Masker N95,5329,79935000
+ORD-2060,2023-09-23,Sumatera_Selatan,Masker Medis 3Ply,412,6180000
+ORD-2061,2023-09-23,Riau,Masker N95,6531,65310000
+ORD-2062,2023-09-23,Kalimantan_Barat,Masker N95,389,3890000
+ORD-2063,2023-09-23,Kalimantan_Tengah,Masker Kain,5663,84945000
+ORD-2064,2023-09-24,Sumatera_Selatan,Masker Medis 3Ply,558,25110000
+ORD-2065,2023-09-24,Riau,Masker Medis 3Ply,3616,162720000
+ORD-2066,2023-09-24,Kalimantan_Barat,Masker Medis 3Ply,208,9360000
+ORD-2067,2023-09-24,Kalimantan_Tengah,Masker Medis 3Ply,6021,270945000
+ORD-2068,2023-09-25,Sumatera_Selatan,Masker Medis 3Ply,328,3280000
+ORD-2069,2023-09-25,Riau,Masker Medis 3Ply,5006,50060000
+ORD-2070,2023-09-25,Kalimantan_Barat,Masker Medis 3Ply,507,5070000
+ORD-2071,2023-09-25,Kalimantan_Tengah,Masker Medis 3Ply,2922,29220000
+ORD-2072,2023-09-26,Sumatera_Selatan,Masker N95,462,4620000
+ORD-2073,2023-09-26,Riau,Masker N95,2883,28830000
+ORD-2074,2023-09-26,Kalimantan_Barat,Masker Medis 3Ply,703,31635000
+ORD-2075,2023-09-26,Kalimantan_Tengah,Masker Medis 3Ply,3882,38820000
+ORD-2076,2023-09-27,Sumatera_Selatan,Masker Kain,504,5040000
+ORD-2077,2023-09-27,Riau,Masker Medis 3Ply,3684,36840000
+ORD-2078,2023-09-27,Kalimantan_Barat,Masker N95,652,6520000
+ORD-2079,2023-09-27,Kalimantan_Tengah,Masker N95,2825,28250000
+ORD-2080,2023-09-28,Sumatera_Selatan,Masker Kain,395,17775000
+ORD-2081,2023-09-28,Riau,Masker Kain,3833,172485000
+ORD-2082,2023-09-28,Kalimantan_Barat,Masker Medis 3Ply,358,5370000
+ORD-2083,2023-09-28,Kalimantan_Tengah,Masker N95,3799,170955000
+ORD-2084,2023-09-29,Sumatera_Selatan,Masker Medis 3Ply,334,5010000
+ORD-2085,2023-09-29,Riau,Masker N95,3068,46020000
+ORD-2086,2023-09-29,Kalimantan_Barat,Masker Kain,410,4100000
+ORD-2087,2023-09-29,Kalimantan_Tengah,Masker Kain,6278,62780000
+ORD-2088,2023-09-30,Sumatera_Selatan,Masker Kain,613,6130000
+ORD-2089,2023-09-30,Riau,Masker Medis 3Ply,4279,42790000
+ORD-2090,2023-09-30,Kalimantan_Barat,Masker Medis 3Ply,347,15615000
+ORD-2091,2023-09-30,Kalimantan_Tengah,Masker N95,5831,87465000
+ORD-2092,2023-10-01,Sumatera_Selatan,Masker N95,355,5325000
+ORD-2093,2023-10-01,Riau,Masker Medis 3Ply,4658,46580000
+ORD-2094,2023-10-01,Kalimantan_Barat,Masker Medis 3Ply,222,2220000
+ORD-2095,2023-10-01,Kalimantan_Tengah,Masker Medis 3Ply,3031,45465000
+ORD-2096,2023-10-02,Sumatera_Selatan,Masker Kain,304,3040000
+ORD-2097,2023-10-02,Riau,Masker Kain,3944,177480000
+ORD-2098,2023-10-02,Kalimantan_Barat,Masker Kain,300,13500000
+ORD-2099,2023-10-02,Kalimantan_Tengah,Masker Medis 3Ply,4535,68025000
+ORD-2100,2023-10-03,Sumatera_Selatan,Masker N95,597,26865000
+ORD-2101,2023-10-03,Riau,Masker Kain,2950,132750000
+ORD-2102,2023-10-03,Kalimantan_Barat,Masker N95,617,9255000
+ORD-2103,2023-10-03,Kalimantan_Tengah,Masker Medis 3Ply,6198,92970000
+ORD-2104,2023-10-04,Sumatera_Selatan,Masker Medis 3Ply,367,16515000
+ORD-2105,2023-10-04,Riau,Masker Medis 3Ply,5568,83520000
+ORD-2106,2023-10-04,Kalimantan_Barat,Masker N95,344,3440000
+ORD-2107,2023-10-04,Kalimantan_Tengah,Masker Medis 3Ply,6945,69450000
+ORD-2108,2023-10-05,Sumatera_Selatan,Masker Medis 3Ply,486,4860000
+ORD-2109,2023-10-05,Riau,Masker Medis 3Ply,4264,42640000
+ORD-2110,2023-10-05,Kalimantan_Barat,Masker N95,173,1730000
+ORD-2111,2023-10-05,Kalimantan_Tengah,Masker Medis 3Ply,6258,93870000
+ORD-2112,2023-10-06,Sumatera_Selatan,Masker Kain,372,3720000
+ORD-2113,2023-10-06,Riau,Masker N95,3645,54675000
+ORD-2114,2023-10-06,Kalimantan_Barat,Masker Medis 3Ply,190,8550000
+ORD-2115,2023-10-06,Kalimantan_Tengah,Masker Medis 3Ply,3743,56145000
+ORD-2116,2023-10-07,Sumatera_Selatan,Masker Medis 3Ply,196,1960000
+ORD-2117,2023-10-07,Riau,Masker Kain,6091,91365000
+ORD-2118,2023-10-07,Kalimantan_Barat,Masker Medis 3Ply,474,4740000
+ORD-2119,2023-10-07,Kalimantan_Tengah,Masker Medis 3Ply,2889,130005000
+ORD-2120,2023-10-08,Sumatera_Selatan,Masker Kain,567,25515000
+ORD-2121,2023-10-08,Riau,Masker Medis 3Ply,3689,166005000
+ORD-2122,2023-10-08,Kalimantan_Barat,Masker Medis 3Ply,324,3240000
+ORD-2123,2023-10-08,Kalimantan_Tengah,Masker Medis 3Ply,2878,28780000
+ORD-2124,2023-10-09,Sumatera_Selatan,Masker Medis 3Ply,627,28215000
+ORD-2125,2023-10-09,Riau,Masker Medis 3Ply,4561,68415000
+ORD-2126,2023-10-09,Kalimantan_Barat,Masker Kain,568,25560000
+ORD-2127,2023-10-09,Kalimantan_Tengah,Masker Medis 3Ply,4338,195210000
+ORD-2128,2023-10-10,Sumatera_Selatan,Masker N95,576,5760000
+ORD-2129,2023-10-10,Riau,Masker N95,4032,40320000
+ORD-2130,2023-10-10,Kalimantan_Barat,Masker Kain,446,4460000
+ORD-2131,2023-10-10,Kalimantan_Tengah,Masker Medis 3Ply,5414,243630000
+ORD-2132,2023-10-11,Sumatera_Selatan,Masker Kain,409,18405000
+ORD-2133,2023-10-11,Riau,Masker Kain,2367,35505000
+ORD-2134,2023-10-11,Kalimantan_Barat,Masker Kain,316,14220000
+ORD-2135,2023-10-11,Kalimantan_Tengah,Masker Medis 3Ply,2688,26880000
+ORD-2136,2023-10-12,Sumatera_Selatan,Masker N95,516,23220000
+ORD-2137,2023-10-12,Riau,Masker Kain,5009,75135000
+ORD-2138,2023-10-12,Kalimantan_Barat,Masker Medis 3Ply,548,8220000
+ORD-2139,2023-10-12,Kalimantan_Tengah,Masker Kain,2777,27770000
+ORD-2140,2023-10-13,Sumatera_Selatan,Masker Medis 3Ply,126,1260000
+ORD-2141,2023-10-13,Riau,Masker Kain,5937,267165000
+ORD-2142,2023-10-13,Kalimantan_Barat,Masker N95,554,5540000
+ORD-2143,2023-10-13,Kalimantan_Tengah,Masker N95,5785,260325000
+ORD-2144,2023-10-14,Sumatera_Selatan,Masker Kain,285,12825000
+ORD-2145,2023-10-14,Riau,Masker Kain,4639,208755000
+ORD-2146,2023-10-14,Kalimantan_Barat,Masker Medis 3Ply,433,19485000
+ORD-2147,2023-10-14,Kalimantan_Tengah,Masker Kain,3432,154440000
+ORD-2148,2023-10-15,Sumatera_Selatan,Masker Medis 3Ply,547,5470000
+ORD-2149,2023-10-15,Riau,Masker N95,2585,116325000
+ORD-2150,2023-10-15,Kalimantan_Barat,Masker N95,475,4750000
+ORD-2151,2023-10-15,Kalimantan_Tengah,Masker Medis 3Ply,4899,220455000
+ORD-2152,2023-10-16,Sumatera_Selatan,Masker N95,296,4440000
+ORD-2153,2023-10-16,Riau,Masker Kain,5079,76185000
+ORD-2154,2023-10-16,Kalimantan_Barat,Masker Medis 3Ply,251,3765000
+ORD-2155,2023-10-16,Kalimantan_Tengah,Masker Medis 3Ply,3291,49365000
+ORD-2156,2023-10-17,Sumatera_Selatan,Masker N95,558,5580000
+ORD-2157,2023-10-17,Riau,Masker N95,4123,61845000
+ORD-2158,2023-10-17,Kalimantan_Barat,Masker N95,91,1365000
+ORD-2159,2023-10-17,Kalimantan_Tengah,Masker Kain,5044,226980000
+ORD-2160,2023-10-18,Sumatera_Selatan,Masker Medis 3Ply,586,5860000
+ORD-2161,2023-10-18,Riau,Masker Medis 3Ply,4124,185580000
+ORD-2162,2023-10-18,Kalimantan_Barat,Masker N95,457,20565000
+ORD-2163,2023-10-18,Kalimantan_Tengah,Masker Medis 3Ply,6086,273870000
+ORD-2164,2023-10-19,Sumatera_Selatan,Masker Medis 3Ply,326,4890000
+ORD-2165,2023-10-19,Riau,Masker Medis 3Ply,2998,44970000
+ORD-2166,2023-10-19,Kalimantan_Barat,Masker Kain,356,3560000
+ORD-2167,2023-10-19,Kalimantan_Tengah,Masker N95,4080,40800000
+ORD-2168,2023-10-20,Sumatera_Selatan,Masker Medis 3Ply,206,3090000
+ORD-2169,2023-10-20,Riau,Masker Medis 3Ply,7824,352080000
+ORD-2170,2023-10-20,Kalimantan_Barat,Masker N95,357,3570000
+ORD-2171,2023-10-20,Kalimantan_Tengah,Masker Medis 3Ply,2683,26830000
+ORD-2172,2023-10-21,Sumatera_Selatan,Masker Medis 3Ply,303,3030000
+ORD-2173,2023-10-21,Riau,Masker Medis 3Ply,5401,243045000
+ORD-2174,2023-10-21,Kalimantan_Barat,Masker N95,540,8100000
+ORD-2175,2023-10-21,Kalimantan_Tengah,Masker Medis 3Ply,4360,196200000
+ORD-2176,2023-10-22,Sumatera_Selatan,Masker Kain,200,3000000
+ORD-2177,2023-10-22,Riau,Masker Medis 3Ply,3650,36500000
+ORD-2178,2023-10-22,Kalimantan_Barat,Masker Kain,265,11925000
+ORD-2179,2023-10-22,Kalimantan_Tengah,Masker Kain,5351,240795000
+ORD-2180,2023-10-23,Sumatera_Selatan,Masker Medis 3Ply,502,5020000
+ORD-2181,2023-10-23,Riau,Masker N95,2907,130815000
+ORD-2182,2023-10-23,Kalimantan_Barat,Masker Medis 3Ply,313,3130000
+ORD-2183,2023-10-23,Kalimantan_Tengah,Masker Medis 3Ply,3993,59895000
+ORD-2184,2023-10-24,Sumatera_Selatan,Masker Medis 3Ply,522,7830000
+ORD-2185,2023-10-24,Riau,Masker N95,6496,97440000
+ORD-2186,2023-10-24,Kalimantan_Barat,Masker N95,145,6525000
+ORD-2187,2023-10-24,Kalimantan_Tengah,Masker Kain,5909,88635000
+ORD-2188,2023-10-25,Sumatera_Selatan,Masker Medis 3Ply,180,1800000
+ORD-2189,2023-10-25,Riau,Masker N95,6650,299250000
+ORD-2190,2023-10-25,Kalimantan_Barat,Masker Kain,489,7335000
+ORD-2191,2023-10-25,Kalimantan_Tengah,Masker Medis 3Ply,5840,262800000
+ORD-2192,2023-10-26,Sumatera_Selatan,Masker Kain,319,4785000
+ORD-2193,2023-10-26,Riau,Masker Kain,4373,196785000
+ORD-2194,2023-10-26,Kalimantan_Barat,Masker Medis 3Ply,448,20160000
+ORD-2195,2023-10-26,Kalimantan_Tengah,Masker N95,4839,48390000
+ORD-2196,2023-10-27,Sumatera_Selatan,Masker Medis 3Ply,694,10410000
+ORD-2197,2023-10-27,Riau,Masker Kain,5549,249705000
+ORD-2198,2023-10-27,Kalimantan_Barat,Masker Medis 3Ply,382,17190000
+ORD-2199,2023-10-27,Kalimantan_Tengah,Masker N95,3546,159570000
+ORD-2200,2023-10-28,Sumatera_Selatan,Masker Medis 3Ply,301,4515000
+ORD-2201,2023-10-28,Riau,Masker Kain,5351,53510000
+ORD-2202,2023-10-28,Kalimantan_Barat,Masker Medis 3Ply,131,5895000
+ORD-2203,2023-10-28,Kalimantan_Tengah,Masker Kain,4950,222750000
+ORD-2204,2023-10-29,Sumatera_Selatan,Masker Medis 3Ply,666,9990000
+ORD-2205,2023-10-29,Riau,Masker Medis 3Ply,5384,80760000
+ORD-2206,2023-10-29,Kalimantan_Barat,Masker Medis 3Ply,405,6075000
+ORD-2207,2023-10-29,Kalimantan_Tengah,Masker Medis 3Ply,2784,125280000
+ORD-2208,2023-10-30,Sumatera_Selatan,Masker N95,291,2910000
+ORD-2209,2023-10-30,Riau,Masker Medis 3Ply,3628,54420000
+ORD-2210,2023-10-30,Kalimantan_Barat,Masker Medis 3Ply,298,4470000
+ORD-2211,2023-10-30,Kalimantan_Tengah,Masker Medis 3Ply,3172,142740000
+ORD-2212,2023-10-31,Sumatera_Selatan,Masker Kain,150,1500000
+ORD-2213,2023-10-31,Riau,Masker Kain,3471,156195000
+ORD-2214,2023-10-31,Kalimantan_Barat,Masker Medis 3Ply,568,5680000
+ORD-2215,2023-10-31,Kalimantan_Tengah,Masker Medis 3Ply,3209,48135000
+ORD-2216,2023-11-01,Sumatera_Selatan,Masker Medis 3Ply,226,2260000
+ORD-2217,2023-11-01,Riau,Masker Medis 3Ply,145,6525000
+ORD-2218,2023-11-01,Kalimantan_Barat,Masker Medis 3Ply,425,19125000
+ORD-2219,2023-11-01,Kalimantan_Tengah,Masker Medis 3Ply,675,10125000
+ORD-2220,2023-11-02,Sumatera_Selatan,Masker Kain,292,2920000
+ORD-2221,2023-11-02,Riau,Masker Medis 3Ply,229,2290000
+ORD-2222,2023-11-02,Kalimantan_Barat,Masker N95,352,15840000
+ORD-2223,2023-11-02,Kalimantan_Tengah,Masker N95,433,19485000
+ORD-2224,2023-11-03,Sumatera_Selatan,Masker Medis 3Ply,225,10125000
+ORD-2225,2023-11-03,Riau,Masker Kain,262,3930000
+ORD-2226,2023-11-03,Kalimantan_Barat,Masker Medis 3Ply,681,6810000
+ORD-2227,2023-11-03,Kalimantan_Tengah,Masker Medis 3Ply,375,3750000
+ORD-2228,2023-11-04,Sumatera_Selatan,Masker Kain,302,13590000
+ORD-2229,2023-11-04,Riau,Masker Kain,297,13365000
+ORD-2230,2023-11-04,Kalimantan_Barat,Masker N95,188,8460000
+ORD-2231,2023-11-04,Kalimantan_Tengah,Masker N95,386,5790000
+ORD-2232,2023-11-05,Sumatera_Selatan,Masker N95,501,7515000
+ORD-2233,2023-11-05,Riau,Masker N95,230,3450000
+ORD-2234,2023-11-05,Kalimantan_Barat,Masker Medis 3Ply,258,11610000
+ORD-2235,2023-11-05,Kalimantan_Tengah,Masker Medis 3Ply,488,21960000
+ORD-2236,2023-11-06,Sumatera_Selatan,Masker Medis 3Ply,191,2865000
+ORD-2237,2023-11-06,Riau,Masker Medis 3Ply,342,3420000
+ORD-2238,2023-11-06,Kalimantan_Barat,Masker Kain,295,13275000
+ORD-2239,2023-11-06,Kalimantan_Tengah,Masker N95,589,26505000
+ORD-2240,2023-11-07,Sumatera_Selatan,Masker Medis 3Ply,469,21105000
+ORD-2241,2023-11-07,Riau,Masker N95,104,1040000
+ORD-2242,2023-11-07,Kalimantan_Barat,Masker N95,691,6910000
+ORD-2243,2023-11-07,Kalimantan_Tengah,Masker Medis 3Ply,474,21330000
+ORD-2244,2023-11-08,Sumatera_Selatan,Masker Medis 3Ply,327,3270000
+ORD-2245,2023-11-08,Riau,Masker Medis 3Ply,613,27585000
+ORD-2246,2023-11-08,Kalimantan_Barat,Masker Kain,243,2430000
+ORD-2247,2023-11-08,Kalimantan_Tengah,Masker Medis 3Ply,409,18405000
+ORD-2248,2023-11-09,Sumatera_Selatan,Masker Kain,467,4670000
+ORD-2249,2023-11-09,Riau,Masker Medis 3Ply,398,17910000
+ORD-2250,2023-11-09,Kalimantan_Barat,Masker N95,558,8370000
+ORD-2251,2023-11-09,Kalimantan_Tengah,Masker N95,681,10215000
+ORD-2252,2023-11-10,Sumatera_Selatan,Masker Medis 3Ply,282,2820000
+ORD-2253,2023-11-10,Riau,Masker Medis 3Ply,433,6495000
+ORD-2254,2023-11-10,Kalimantan_Barat,Masker Medis 3Ply,595,26775000
+ORD-2255,2023-11-10,Kalimantan_Tengah,Masker N95,142,6390000
+ORD-2256,2023-11-11,Sumatera_Selatan,Masker Kain,210,9450000
+ORD-2257,2023-11-11,Riau,Masker Medis 3Ply,638,9570000
+ORD-2258,2023-11-11,Kalimantan_Barat,Masker Kain,536,5360000
+ORD-2259,2023-11-11,Kalimantan_Tengah,Masker N95,320,3200000
+ORD-2260,2023-11-12,Sumatera_Selatan,Masker Medis 3Ply,473,7095000
+ORD-2261,2023-11-12,Riau,Masker Kain,480,21600000
+ORD-2262,2023-11-12,Kalimantan_Barat,Masker N95,502,22590000
+ORD-2263,2023-11-12,Kalimantan_Tengah,Masker Medis 3Ply,428,4280000
+ORD-2264,2023-11-13,Sumatera_Selatan,Masker Medis 3Ply,137,6165000
+ORD-2265,2023-11-13,Riau,Masker Medis 3Ply,310,13950000
+ORD-2266,2023-11-13,Kalimantan_Barat,Masker N95,286,12870000
+ORD-2267,2023-11-13,Kalimantan_Tengah,Masker Medis 3Ply,535,8025000
+ORD-2268,2023-11-14,Sumatera_Selatan,Masker Medis 3Ply,355,3550000
+ORD-2269,2023-11-14,Riau,Masker N95,164,2460000
+ORD-2270,2023-11-14,Kalimantan_Barat,Masker Medis 3Ply,628,6280000
+ORD-2271,2023-11-14,Kalimantan_Tengah,Masker Medis 3Ply,277,4155000
+ORD-2272,2023-11-15,Sumatera_Selatan,Masker Medis 3Ply,540,24300000
+ORD-2273,2023-11-15,Riau,Masker Medis 3Ply,362,16290000
+ORD-2274,2023-11-15,Kalimantan_Barat,Masker N95,533,5330000
+ORD-2275,2023-11-15,Kalimantan_Tengah,Masker Kain,616,6160000
+ORD-2276,2023-11-16,Sumatera_Selatan,Masker N95,435,4350000
+ORD-2277,2023-11-16,Riau,Masker Medis 3Ply,572,5720000
+ORD-2278,2023-11-16,Kalimantan_Barat,Masker Kain,133,1330000
+ORD-2279,2023-11-16,Kalimantan_Tengah,Masker Kain,419,6285000
+ORD-2280,2023-11-17,Sumatera_Selatan,Masker Kain,521,5210000
+ORD-2281,2023-11-17,Riau,Masker N95,219,9855000
+ORD-2282,2023-11-17,Kalimantan_Barat,Masker Kain,279,2790000
+ORD-2283,2023-11-17,Kalimantan_Tengah,Masker N95,584,8760000
+ORD-2284,2023-11-18,Sumatera_Selatan,Masker Medis 3Ply,701,7010000
+ORD-2285,2023-11-18,Riau,Masker N95,660,6600000
+ORD-2286,2023-11-18,Kalimantan_Barat,Masker Medis 3Ply,393,5895000
+ORD-2287,2023-11-18,Kalimantan_Tengah,Masker N95,578,8670000
+ORD-2288,2023-11-19,Sumatera_Selatan,Masker Medis 3Ply,621,6210000
+ORD-2289,2023-11-19,Riau,Masker Medis 3Ply,433,4330000
+ORD-2290,2023-11-19,Kalimantan_Barat,Masker N95,185,8325000
+ORD-2291,2023-11-19,Kalimantan_Tengah,Masker Medis 3Ply,397,17865000
+ORD-2292,2023-11-20,Sumatera_Selatan,Masker Medis 3Ply,513,5130000
+ORD-2293,2023-11-20,Riau,Masker Medis 3Ply,147,2205000
+ORD-2294,2023-11-20,Kalimantan_Barat,Masker Kain,527,5270000
+ORD-2295,2023-11-20,Kalimantan_Tengah,Masker N95,369,5535000
+ORD-2296,2023-11-21,Sumatera_Selatan,Masker N95,280,2800000
+ORD-2297,2023-11-21,Riau,Masker Medis 3Ply,357,5355000
+ORD-2298,2023-11-21,Kalimantan_Barat,Masker Medis 3Ply,438,4380000
+ORD-2299,2023-11-21,Kalimantan_Tengah,Masker N95,336,15120000
+ORD-2300,2023-11-22,Sumatera_Selatan,Masker Kain,148,2220000
+ORD-2301,2023-11-22,Riau,Masker N95,449,20205000
+ORD-2302,2023-11-22,Kalimantan_Barat,Masker Medis 3Ply,503,7545000
+ORD-2303,2023-11-22,Kalimantan_Tengah,Masker Medis 3Ply,364,16380000
+ORD-2304,2023-11-23,Sumatera_Selatan,Masker Kain,373,3730000
+ORD-2305,2023-11-23,Riau,Masker Medis 3Ply,602,6020000
+ORD-2306,2023-11-23,Kalimantan_Barat,Masker N95,287,2870000
+ORD-2307,2023-11-23,Kalimantan_Tengah,Masker N95,654,9810000
+ORD-2308,2023-11-24,Sumatera_Selatan,Masker N95,341,3410000
+ORD-2309,2023-11-24,Riau,Masker N95,217,2170000
+ORD-2310,2023-11-24,Kalimantan_Barat,Masker Medis 3Ply,609,6090000
+ORD-2311,2023-11-24,Kalimantan_Tengah,Masker N95,249,3735000
+ORD-2312,2023-11-25,Sumatera_Selatan,Masker Kain,519,7785000
+ORD-2313,2023-11-25,Riau,Masker Medis 3Ply,193,1930000
+ORD-2314,2023-11-25,Kalimantan_Barat,Masker Medis 3Ply,287,12915000
+ORD-2315,2023-11-25,Kalimantan_Tengah,Masker Medis 3Ply,666,6660000
+ORD-2316,2023-11-26,Sumatera_Selatan,Masker Kain,292,13140000
+ORD-2317,2023-11-26,Riau,Masker Medis 3Ply,508,7620000
+ORD-2318,2023-11-26,Kalimantan_Barat,Masker Medis 3Ply,548,8220000
+ORD-2319,2023-11-26,Kalimantan_Tengah,Masker Medis 3Ply,706,10590000
+ORD-2320,2023-11-27,Sumatera_Selatan,Masker N95,526,5260000
+ORD-2321,2023-11-27,Riau,Masker Kain,447,4470000
+ORD-2322,2023-11-27,Kalimantan_Barat,Masker Medis 3Ply,186,1860000
+ORD-2323,2023-11-27,Kalimantan_Tengah,Masker Medis 3Ply,389,3890000
+ORD-2324,2023-11-28,Sumatera_Selatan,Masker Medis 3Ply,716,32220000
+ORD-2325,2023-11-28,Riau,Masker Medis 3Ply,340,5100000
+ORD-2326,2023-11-28,Kalimantan_Barat,Masker Kain,342,5130000
+ORD-2327,2023-11-28,Kalimantan_Tengah,Masker N95,487,21915000
+ORD-2328,2023-11-29,Sumatera_Selatan,Masker Medis 3Ply,556,8340000
+ORD-2329,2023-11-29,Riau,Masker N95,274,12330000
+ORD-2330,2023-11-29,Kalimantan_Barat,Masker N95,563,8445000
+ORD-2331,2023-11-29,Kalimantan_Tengah,Masker N95,122,1830000
+ORD-2332,2023-11-30,Sumatera_Selatan,Masker N95,288,2880000
+ORD-2333,2023-11-30,Riau,Masker N95,397,5955000
+ORD-2334,2023-11-30,Kalimantan_Barat,Masker Medis 3Ply,395,3950000
+ORD-2335,2023-11-30,Kalimantan_Tengah,Masker Kain,299,2990000
+ORD-2336,2023-12-01,Sumatera_Selatan,Masker Medis 3Ply,481,7215000
+ORD-2337,2023-12-01,Riau,Masker Medis 3Ply,147,1470000
+ORD-2338,2023-12-01,Kalimantan_Barat,Masker N95,362,5430000
+ORD-2339,2023-12-01,Kalimantan_Tengah,Masker Medis 3Ply,538,24210000
+ORD-2340,2023-12-02,Sumatera_Selatan,Masker Medis 3Ply,469,7035000
+ORD-2341,2023-12-02,Riau,Masker Medis 3Ply,437,4370000
+ORD-2342,2023-12-02,Kalimantan_Barat,Masker Kain,296,2960000
+ORD-2343,2023-12-02,Kalimantan_Tengah,Masker Medis 3Ply,364,5460000
+ORD-2344,2023-12-03,Sumatera_Selatan,Masker Medis 3Ply,162,7290000
+ORD-2345,2023-12-03,Riau,Masker Medis 3Ply,376,16920000
+ORD-2346,2023-12-03,Kalimantan_Barat,Masker Kain,265,11925000
+ORD-2347,2023-12-03,Kalimantan_Tengah,Masker N95,121,5445000
+ORD-2348,2023-12-04,Sumatera_Selatan,Masker N95,158,2370000
+ORD-2349,2023-12-04,Riau,Masker N95,324,4860000
+ORD-2350,2023-12-04,Kalimantan_Barat,Masker Medis 3Ply,671,30195000
+ORD-2351,2023-12-04,Kalimantan_Tengah,Masker N95,579,26055000
+ORD-2352,2023-12-05,Sumatera_Selatan,Masker Kain,518,23310000
+ORD-2353,2023-12-05,Riau,Masker Kain,375,16875000
+ORD-2354,2023-12-05,Kalimantan_Barat,Masker Medis 3Ply,245,11025000
+ORD-2355,2023-12-05,Kalimantan_Tengah,Masker Medis 3Ply,401,18045000
+ORD-2356,2023-12-06,Sumatera_Selatan,Masker Medis 3Ply,317,14265000
+ORD-2357,2023-12-06,Riau,Masker N95,283,4245000
+ORD-2358,2023-12-06,Kalimantan_Barat,Masker Medis 3Ply,585,26325000
+ORD-2359,2023-12-06,Kalimantan_Tengah,Masker N95,191,2865000
+ORD-2360,2023-12-07,Sumatera_Selatan,Masker N95,421,6315000
+ORD-2361,2023-12-07,Riau,Masker N95,372,16740000
+ORD-2362,2023-12-07,Kalimantan_Barat,Masker Medis 3Ply,581,8715000
+ORD-2363,2023-12-07,Kalimantan_Tengah,Masker Medis 3Ply,214,9630000
+ORD-2364,2023-12-08,Sumatera_Selatan,Masker N95,294,13230000
+ORD-2365,2023-12-08,Riau,Masker Medis 3Ply,499,22455000
+ORD-2366,2023-12-08,Kalimantan_Barat,Masker Kain,182,8190000
+ORD-2367,2023-12-08,Kalimantan_Tengah,Masker Medis 3Ply,188,1880000
+ORD-2368,2023-12-09,Sumatera_Selatan,Masker Kain,508,7620000
+ORD-2369,2023-12-09,Riau,Masker Medis 3Ply,376,5640000
+ORD-2370,2023-12-09,Kalimantan_Barat,Masker Kain,168,1680000
+ORD-2371,2023-12-09,Kalimantan_Tengah,Masker Medis 3Ply,320,14400000
+ORD-2372,2023-12-10,Sumatera_Selatan,Masker Kain,381,3810000
+ORD-2373,2023-12-10,Riau,Masker Medis 3Ply,502,7530000
+ORD-2374,2023-12-10,Kalimantan_Barat,Masker Medis 3Ply,601,27045000
+ORD-2375,2023-12-10,Kalimantan_Tengah,Masker Medis 3Ply,281,4215000
+ORD-2376,2023-12-11,Sumatera_Selatan,Masker Medis 3Ply,244,3660000
+ORD-2377,2023-12-11,Riau,Masker Medis 3Ply,403,4030000
+ORD-2378,2023-12-11,Kalimantan_Barat,Masker N95,412,6180000
+ORD-2379,2023-12-11,Kalimantan_Tengah,Masker Medis 3Ply,223,3345000
+ORD-2380,2023-12-12,Sumatera_Selatan,Masker N95,372,16740000
+ORD-2381,2023-12-12,Riau,Masker Kain,130,5850000
+ORD-2382,2023-12-12,Kalimantan_Barat,Masker Medis 3Ply,510,22950000
+ORD-2383,2023-12-12,Kalimantan_Tengah,Masker N95,229,2290000
+ORD-2384,2023-12-13,Sumatera_Selatan,Masker Kain,247,11115000
+ORD-2385,2023-12-13,Riau,Masker Medis 3Ply,324,4860000
+ORD-2386,2023-12-13,Kalimantan_Barat,Masker Kain,394,5910000
+ORD-2387,2023-12-13,Kalimantan_Tengah,Masker Kain,216,3240000
+ORD-2388,2023-12-14,Sumatera_Selatan,Masker Medis 3Ply,409,6135000
+ORD-2389,2023-12-14,Riau,Masker Medis 3Ply,421,4210000
+ORD-2390,2023-12-14,Kalimantan_Barat,Masker Medis 3Ply,630,28350000
+ORD-2391,2023-12-14,Kalimantan_Tengah,Masker Medis 3Ply,325,3250000
+ORD-2392,2023-12-15,Sumatera_Selatan,Masker Kain,593,8895000
+ORD-2393,2023-12-15,Riau,Masker Medis 3Ply,612,27540000
+ORD-2394,2023-12-15,Kalimantan_Barat,Masker Medis 3Ply,210,9450000
+ORD-2395,2023-12-15,Kalimantan_Tengah,Masker N95,540,24300000
+ORD-2396,2023-12-16,Sumatera_Selatan,Masker Kain,609,27405000
+ORD-2397,2023-12-16,Riau,Masker Medis 3Ply,214,9630000
+ORD-2398,2023-12-16,Kalimantan_Barat,Masker Medis 3Ply,237,10665000
+ORD-2399,2023-12-16,Kalimantan_Tengah,Masker Medis 3Ply,517,5170000
+ORD-2400,2023-12-17,Sumatera_Selatan,Masker N95,374,16830000
+ORD-2401,2023-12-17,Riau,Masker Medis 3Ply,357,16065000
+ORD-2402,2023-12-17,Kalimantan_Barat,Masker Medis 3Ply,314,4710000
+ORD-2403,2023-12-17,Kalimantan_Tengah,Masker Medis 3Ply,589,26505000
+ORD-2404,2023-12-18,Sumatera_Selatan,Masker N95,370,16650000
+ORD-2405,2023-12-18,Riau,Masker N95,301,13545000
+ORD-2406,2023-12-18,Kalimantan_Barat,Masker Medis 3Ply,454,6810000
+ORD-2407,2023-12-18,Kalimantan_Tengah,Masker Medis 3Ply,641,9615000
+ORD-2408,2023-12-19,Sumatera_Selatan,Masker Medis 3Ply,341,5115000
+ORD-2409,2023-12-19,Riau,Masker N95,722,10830000
+ORD-2410,2023-12-19,Kalimantan_Barat,Masker Medis 3Ply,230,10350000
+ORD-2411,2023-12-19,Kalimantan_Tengah,Masker Medis 3Ply,489,22005000
+ORD-2412,2023-12-20,Sumatera_Selatan,Masker Medis 3Ply,533,5330000
+ORD-2413,2023-12-20,Riau,Masker Medis 3Ply,156,7020000
+ORD-2414,2023-12-20,Kalimantan_Barat,Masker N95,514,7710000
+ORD-2415,2023-12-20,Kalimantan_Tengah,Masker Medis 3Ply,590,5900000
+ORD-2416,2023-12-21,Sumatera_Selatan,Masker Medis 3Ply,288,12960000
+ORD-2417,2023-12-21,Riau,Masker Medis 3Ply,522,5220000
+ORD-2418,2023-12-21,Kalimantan_Barat,Masker N95,645,6450000
+ORD-2419,2023-12-21,Kalimantan_Tengah,Masker Medis 3Ply,319,14355000
+ORD-2420,2023-12-22,Sumatera_Selatan,Masker Kain,469,4690000
+ORD-2421,2023-12-22,Riau,Masker N95,473,21285000
+ORD-2422,2023-12-22,Kalimantan_Barat,Masker N95,155,1550000
+ORD-2423,2023-12-22,Kalimantan_Tengah,Masker Kain,535,5350000
+ORD-2424,2023-12-23,Sumatera_Selatan,Masker Medis 3Ply,365,5475000
+ORD-2425,2023-12-23,Riau,Masker Medis 3Ply,625,28125000
+ORD-2426,2023-12-23,Kalimantan_Barat,Masker Medis 3Ply,254,2540000
+ORD-2427,2023-12-23,Kalimantan_Tengah,Masker Medis 3Ply,123,1845000
+ORD-2428,2023-12-24,Sumatera_Selatan,Masker N95,167,7515000
+ORD-2429,2023-12-24,Riau,Masker Medis 3Ply,280,4200000
+ORD-2430,2023-12-24,Kalimantan_Barat,Masker Kain,191,8595000
+ORD-2431,2023-12-24,Kalimantan_Tengah,Masker Kain,212,2120000
+ORD-2432,2023-12-25,Sumatera_Selatan,Masker Medis 3Ply,573,8595000
+ORD-2433,2023-12-25,Riau,Masker Kain,647,6470000
+ORD-2434,2023-12-25,Kalimantan_Barat,Masker N95,266,11970000
+ORD-2435,2023-12-25,Kalimantan_Tengah,Masker N95,250,2500000
+ORD-2436,2023-12-26,Sumatera_Selatan,Masker N95,212,3180000
+ORD-2437,2023-12-26,Riau,Masker Medis 3Ply,509,5090000
+ORD-2438,2023-12-26,Kalimantan_Barat,Masker N95,364,16380000
+ORD-2439,2023-12-26,Kalimantan_Tengah,Masker Kain,200,9000000
+ORD-2440,2023-12-27,Sumatera_Selatan,Masker Medis 3Ply,291,13095000
+ORD-2441,2023-12-27,Riau,Masker Kain,349,3490000
+ORD-2442,2023-12-27,Kalimantan_Barat,Masker Kain,305,3050000
+ORD-2443,2023-12-27,Kalimantan_Tengah,Masker Kain,182,2730000
+ORD-2444,2023-12-28,Sumatera_Selatan,Masker Medis 3Ply,226,3390000
+ORD-2445,2023-12-28,Riau,Masker Medis 3Ply,433,6495000
+ORD-2446,2023-12-28,Kalimantan_Barat,Masker Medis 3Ply,437,6555000
+ORD-2447,2023-12-28,Kalimantan_Tengah,Masker Medis 3Ply,171,1710000
+ORD-2448,2023-12-29,Sumatera_Selatan,Masker Medis 3Ply,300,3000000
+ORD-2449,2023-12-29,Riau,Masker N95,262,3930000
+ORD-2450,2023-12-29,Kalimantan_Barat,Masker Medis 3Ply,353,3530000
+ORD-2451,2023-12-29,Kalimantan_Tengah,Masker Medis 3Ply,339,15255000
+ORD-2452,2023-12-30,Sumatera_Selatan,Masker Medis 3Ply,498,7470000
+ORD-2453,2023-12-30,Riau,Masker Medis 3Ply,303,4545000
+ORD-2454,2023-12-30,Kalimantan_Barat,Masker Kain,263,3945000
+ORD-2455,2023-12-30,Kalimantan_Tengah,Masker N95,519,23355000
+ORD-2456,2023-12-31,Sumatera_Selatan,Masker N95,389,3890000
+ORD-2457,2023-12-31,Riau,Masker Medis 3Ply,222,9990000
+ORD-2458,2023-12-31,Kalimantan_Barat,Masker Kain,457,20565000
+ORD-2459,2023-12-31,Kalimantan_Tengah,Masker Medis 3Ply,599,5990000
